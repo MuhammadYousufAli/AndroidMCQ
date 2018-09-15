@@ -1,0 +1,1385 @@
+﻿,QUESTION,DIFF,WEIGHT,TYPE ,CORRECT,OPTION1,OPTION2,OPTION3,OPTION4
+1,OOPP paradigm based on the concept of ,Easy,1,Evaluation-Android,b) objects,a) functions,b) objects,c) statements,d) all
+2,Class often known as,Easy,1,Evaluation-Android,a) signature,a) signature,b) methods,c) all,d) none
+3,Functions often known as ,Easy,1,Evaluation-Android,methods,signature,methods,model,none
+4,objects have a notion of,Easy,1,Evaluation-Android,both,this ,self,both,none
+5,Objects can _____  with one another,Easy,1,Evaluation-Android,interact,define,interact,initialize,none
+6,OOP first languages,Easy,1,Evaluation-Android,simula,smalltalk,c++,simula,java
+7,Android uses,Easy,1,Evaluation-Android,both,java,xml,both,none
+8,Defining web pages and handling the HTTPrequests using,Easy,1,Evaluation-Android,both, view technologies,frameworks,both,none
+9,"As a subcategory of web frameworks, view-layer frameworks often ____  with web framework",Easy,1,Evaluation-Android,overlap,overlap,extend,inherit,none
+10,Java web applications are,Easy,1,Evaluation-Android,all,Java Servlets., Core Java,JavaServer Pages,all
+11,Web-based software libraries provides ,Easy,1,Evaluation-Android,all,user interface,view-layer,all,none
+12,OOP Concepts are,Easy,1,Evaluation-Android,all,Inheritance,Association,Aggregation,all
+13,Abstraction is the concept of ,Easy,1,Evaluation-Android,both,hiding the internal details,describing things in simple,both,none
+14,Java are,Easy,1,Evaluation-Android,platform independent,platform dependent,platform independent,both,none
+15,"There are many ways to achieve abstraction in object oriented programming, such as ",Easy,1,Evaluation-Android,both,encapsulation,inheritance,both,none
+16,Abstraction in object oriented programming,Easy,1,Evaluation-Android,esential,esential,optional,user dependent,problem dependent
+17,Encapsulation is the technique used to implement ____ in object oriented programming,Easy,1,Evaluation-Android,Abstraction,Aggregation,Association,abstraction,none
+18,Encapsulation in java is achieved using ,Easy,1,Evaluation-Android,all,private,protected,public,all
+19,Encapsulation is used for access restriction to,Easy,1,Evaluation-Android,both,class members,methods,both,none
+20,Access modifier ____ are used for encapsulation in object oriented programming,Easy,1,Evaluation-Android, keywords , keywords ,symbols,notations,mechanisms
+21,Access modifier,Easy,1,Evaluation-Android,all,private,protected,public,all
+22,Polymorphism is the concept where an object behaves _____ in different situations,Easy,1,Evaluation-Android,differently,identically,differently,intelligently,all
+23,There are ___  types of polymorphism ,Easy,1,Evaluation-Android,2,1,2,3,4
+24, Polymorphism occur in,Easy,1,Evaluation-Android,both,compile time,runtime,both,none
+25,Compile time polymorphism is achieved by ,Easy,1,Evaluation-Android,method overloading,operator overloading,method overloading,both,none
+26,Runtime polymorphism is implemented when we have __ relationship between objects,Easy,1,Evaluation-Android,IS-A,IS-A,IS-B,IS-C,IS-E
+27,Runtime polymorphism occur in,Easy,1,Evaluation-Android,Inheritance,Inheritance,method overloading,both,none
+28,___ has to override the superclass method for runtime polymorphism,Easy,1,Evaluation-Android,subclass,subclass,baseclass,both,none
+29,Subclass has to override the ___ method for runtime polymorphism,Easy,1,Evaluation-Android,both,superclass ,baseclass,both,none
+30,"If we are working in terms of superclass, the actual implementation class is decided at",Easy,1,Evaluation-Android,runtime,compile time,runtime,both,none
+31,Compiler is not able to decide which class method will be invoked when ____ polymorphism,Easy,1,Evaluation-Android,runtime,compile time,runtime,both,none
+32,Dynamic method dispatch at,Medium,1,Evaluation-Android,runtime,compile time,runtime,both,none
+33,This ___ is done at runtime,Easy,1,Evaluation-Android,decision,offer,decision,choice,none
+34,Inheritance is the object oriented programming concept where an object is based on another,Easy,1,Evaluation-Android,object,object,method,both,none
+35,The object that is getting inherited is called,Easy,1,Evaluation-Android,superclass,subclass,superclass,derived class,all
+36,Inheritance is the mechanism of code,Easy,1,Evaluation-Android,reuse,recycle,reuse,optimization,none
+37,Superclass is,Easy,1,Evaluation-Android,base class,derived class,main class,base class,all
+38,The object that inherits the superclass is called ,Easy,1,Evaluation-Android,subclass,base class,superclass,subclass,all
+39,We use ___  keyword in java to implement inheritance,Easy,1,Evaluation-Android,extends,implements,extends,both,none
+40,How many class can be extends for a class,Easy,1,Evaluation-Android,1,1,2,multiple,all
+41,How many class can be implements for a class,Easy,1,Evaluation-Android,all,1,2,multiple,all
+42,Association is the OOPS concept to define the ____ between objects,Medium,1,Evaluation-Android,relationship,access ,relationship,both,none
+43,Association defines the ____ between objects,Easy,1,Evaluation-Android,multiplicity,simplicity,multiplicity,access,all
+44,Aggregation is a special ___  of association,Easy,1,Evaluation-Android,type,type,case,instance,all
+45,"In aggregation, objects have their own life cycle but there is an ",Medium,1,Evaluation-Android,ownership,ownership,membership,both,none
+46,“HAS-A” relationship between objects and ownership then it’s a ___ of aggregation,Easy,1,Evaluation-Android,case,type,case,both,none
+47,Composition is a ___ of aggregation,Easy,1,Evaluation-Android,special case,general case,special case,general type,special type
+48,Composition is a _____ form of aggregation,Easy,1,Evaluation-Android,more restrictive,general,more restrictive,special,all
+49,Data type specifies ,Easy,1,Evaluation-Android,both,size,type ,both,none
+50,Java language is ____  in its data types,Easy,1,Evaluation-Android,rich,medium,same as C++,rich,poor
+51,Data types in Java are classified into ___  types,Easy,1,Evaluation-Android,2,2,3,4,8
+52,Primitive type— which include,Easy,1,Evaluation-Android,all,Integer,Character,Boolean,all
+53,Array is a ___ type,Easy,1,Evaluation-Android,Non-primitive,Primitive,Non-primitive,Basic,none
+54,"Non-primitive, which is not included",Easy,1,Evaluation-Android,none,Classes,Interfaces,Arrays,none
+55,An integer  ,Easy,1,Evaluation-Android,all,0,-2048,10,all
+56,String is basically an _____  that represents sequence of char value,Easy,1,Evaluation-Android,object,variable,objects,both,none
+57,______ type is a double-precision 64-bit IEEE 754 floating point,Easy,1,Evaluation-Android,double data,float data,double data,long float data,none
+58,Data type should never be used for ____  such as currency,Easy,1,Evaluation-Android,precise values,large value,precise values,small value,none
+59,There are _____ main categories of control flow statements,Easy,1,Evaluation-Android,3,2,3,4,5
+60,Selection statements:  ,Easy,1,Evaluation-Android,both,if,switch,both,none
+61,Loop statements:,Easy,1,Evaluation-Android,all,while,do-while,for,all
+62,Transfer statements:,Easy,1,Evaluation-Android,all,break,return,try-catch,all
+63,Use ____  when we want to change the default sequential order of execution,Easy,1,Evaluation-Android,control statement,break,control statement,continue,none
+64, “if” statement in Java works _____  like in most programming languages.,Easy,1,Evaluation-Android,exactly,little bit same,exactly,differently,none
+65,Using  “if” you can choose to execute a specific block of code when a predefined condition is ____,Easy,1,Evaluation-Android,all,1,met,TRUE,all
+66,Java provides _____ repetition statements/loop statements,Easy,1,Evaluation-Android,3,2,3,4,5
+67,"Repetitively performing a set of statements as long as the continuation condition remains true, using",Easy,1,Evaluation-Android,for,for,do .. while,both,none
+68,looping statements are  ,Easy,1,Evaluation-Android,none,for,while,do...while,none
+69,for statements perform the repetition,Easy,1,Evaluation-Android,all,zero,one,infinite,all
+70,while’ statements perform the repetition,Easy,1,Evaluation-Android,zero,zero,always one,always mone than one,all
+71,‘do...while’ loop is ____ ,Easy,1,Evaluation-Android,slightly different,slightly different,same as while,same as for,none
+72,A  ___  statement allows a variable to be tested for equality against a list of values,Easy,1,Evaluation-Android,switch,for,while ,if,switch
+73,"In switch, each value is",Easy,1,Evaluation-Android,constant,variable,constant,both,none
+74,The ‘break’ statement in Java programming _____  usages,Easy,1,Evaluation-Android,2,1,2,3,4
+75," The‘break’ statement is encountered inside then, the loop is immediately ",Easy,1,Evaluation-Android,terminate,skip current ,terminate,go next,all
+76,The ‘continue’ keyword can be used in any of the ____ control structures,Easy,1,Evaluation-Android,loop,condition,loop,both,none
+77,For ‘continue’ keyword immediately _____ of the loop,Easy,1,Evaluation-Android, jump to the next iteration,terminate, jump to the next iteration,both,none
+78,Method is a collection of ______  that are grouped together to perform an operation.,Easy,1,Evaluation-Android,statements,variables,class,models,all
+79,Constructed data types you define yourself using,Medium,1,Evaluation-Android,both,structs,unions,both,none
+80, A typedef can be used to assign a ____ to a specific type ,Medium,1,Evaluation-Android,name,variable,name,constant,all
+81,"What are the functionalities in asyncTask in
+ android?",Easy,1," Input,
+Variables, Operations",d,a. onPreExecution(),b.doInBackground(),c.onProgressUpdate(),"d.onPostExecution()
+
+"
+82,What type of language java is?,Medium,1," Input,
+Variables, Operations",b,a.weakly,b.strongly,c.modarate,d.none
+83,How many primtive datatype in android?,Hard,1," Input,
+Variables, Operations",c,a.6,b.7,c.8,d.9
+84,"In java short, long , int all are called……….?",Expert,1," Input,
+Variables, Operations",a,a.signed,b.unsigned,c.both,d.none
+85,What us the size of int in android?,Easy,1," Input,
+Variables, Operations",b,a.16 bits,b.32 bits,c.64 bits,d.depends on situation
+86,What is the smallest int type?,Medium,1," Input,
+Variables, Operations",b,a.short,b.byte,c.bit,d.none
+87,Which type autometic conversion will possible?,Hard,1," Input,
+Variables, Operations",c,a.short to int,b.byte to int,c.int to long,d.long to int
+88,What is the size of short variable?,Expert,1," Input,
+Variables, Operations",c,a.8 bits,b. 16 bits,c. 32 bits,d. 64 bits
+89,What is the default value of int variable?,Easy,1," Input,
+Variables, Operations",a,a.0,b.0.0,c.null,d.not defined
+90,Static binding uses which information for binding?,Medium,1," Input,
+Variables, Operations",a,a.type,b.object,c.both,d.none
+91,Which of the following is a marker interface?,Hard,1," Input,
+Variables, Operations",a,a.serializable,b.comparable,c.cloneable,d.none
+92,"Which of the following is not an valid
+ declaration of an array?",Expert,1," Input,
+Variables, Operations",d,a.int [ ] a = new int [3],b.int a [ ] [ ] = new int [3] [3,c.int [ ] [ ] a = new int [3] [ ],d.int [ ] [ ] a = new int [ ] [3]
+93, Size of an integer can be……?,Easy,1," Input,
+Variables, Operations",a,a.-2^31 to 2^31-1,b. 0 to -2^16,c.-2^8 to 2^8-1,d. -2^15 to 2^15-1
+94,"For which of the following data types the
+ ValueOf() method is NOT overloaded in 
+the string class?",Medium,1," Input,
+Variables, Operations",d,a.Float,b.Boolean,c.Object,d.none
+95,Which  method is handled Requests from Content Provider class?,Hard,1," Input,
+Variables, Operations",d,a.on View,b.onSelect,c.onClick,d.ContentResolve
+96,"What Android component that manages appearance and format
+ on screen ?",Expert,1," Input,
+Variables, Operations",d,a.fragment,b.intent,c.view,d.view
+97,"Android library that provides access to UI
+ pre-built elements such as buttons, lists,
+ views etc. is",Easy,1," Input,
+Variables, Operations",d,a.android.text,b.android.os,c.android.view,d.android.webkit
+98,"A type of service provided by android that 
+shows messages and alerts to user is….?",Medium,1," Input,
+Variables, Operations",c,a.Content Providers,b.View System,c.Notifications Manager,d.Activity Manager
+99,"Android is licensed under which open source licensing
+ license?",Hard,1," Input,
+Variables, Operations",b,a.Gnu’s GPL,b.Apache/MIT,c.OSS,d.Sourceforge
+100,"Although most people’s first thought when they think of Android
+ isGoogle, Android is not actually owned by Google. Who owns 
+the Android platform?",Expert,1," Input,
+Variables, Operations",c,a.Oracle Technology,b.Dalvik,c.Open Handset Alliance,d.none
+101,"As an Android programmer, what version of Android should 
+youuse as your minimum development target?",Easy,1," Input,
+Variables, Operations",a,a.Versions 1.6 or 2.0,b.Versions 1.0 or 1.1 ,c.Versions 1.2 or 1.3,d.Versions 2.3 or 3.0
+102,What was the first phone released that ran the Android OS?,Medium,1," Input,
+Variables, Operations",b,a.Google gPhone,b.T-Mobile G1,c.Motorola Droid,d.HTC Hero
+103,What is the JSON exception in android?,Hard,1," Input,
+Variables, Operations",a,a.JSon Exception,b.Json Not found exception,c.Input not found exception,d.None of the above
+104,How many levels of securities are there in android?,Expert,1," Input,
+Variables, Operations",a,a.App level security and kernel level security,b. Android level security,c.Java level security,d.None of the above
+105,What is the main difference between set and list in android?,Easy,1," Input,
+Variables, Operations",d,a.Both are same,b.Set can't contain duplicate values,c.List may contain duplicate values,d.B & C
+106,"Which of these is used to perform all input & output operations in
+ Java?",Medium,1," Input,
+Variables, Operations",a,a.streams,b.Variables,c.classes,d.Methods
+107,What does AWT stands for?,Easy,1," Input,
+Variables, Operations",c,a.All Window Tools,b.All Writing Tools,c.Abstract Window Toolkit,d.Abstract Writing Toolkit
+108,Which of these is a type of stream in Java?,Medium,1," Input,
+Variables, Operations",c,a.Integer stream,b.Short stream,c.Byte stream,d.Long stream
+109," Which of these classes are used by Byte streams for input and 
+output operation?",Medium,1," Input,
+Variables, Operations",a,a.InputStream,b.InputOutputStream,c.Reader,"d.All of the mentioned
+"
+110,"Which of these classes are used by character streams for input and
+ output operations?",Medium,1," Input,
+Variables, Operations",b,a.InputStream,b.Writer,c.ReadStream,d.InputOutputStream
+111,Which of these class is used to read from byte array?,Medium,1," Input,
+Variables, Operations",d,a.InputStream,b.BufferedInputStream,c.ArrayInputStream.,d.ByteArrayInputStream.
+112,Which exception is thrown by read() method?,Medium,1," Input,
+Variables, Operations",a,a.IOException,b.InterruptedException,c.SystemException,d.InterruptedException
+113,Which of these is used to read a string from the input stream?,Medium,1," Input,
+Variables, Operations",d,a.get(),b.getl_ine(),c.read(),d.read_line()
+114,"Which of these class is used to read characters and strings in Java
+ from console?",Medium,1," Input,
+Variables, Operations",a,a.BufferedReader,b.StringReader,c.BufferedStreamReader,d.InputStreamReader
+115,"Which of these classes are used by Byte streams for input and
+ output operation?",Medium,1," Input,
+Variables, Operations",b,a.Reader,b.InputStream,c.InputOutputStream,d.All of the mentioned
+116,Which of these class is implemented by FilterInputStream class?,Medium,1," Input,
+Variables, Operations",a,a.FileInputStream,b.BufferedInputStream,c.InputStream,d.none
+117,Which of these class contains the methods print() & println()?,Medium,1," Input,
+Variables, Operations",d,a.System,b.System.out,c.BUfferedOutputStream,d.PrintStream
+118,Which of these methods can be used to writing console output?,Easy,1," Input,
+Variables, Operations",d,a.print(),b.println(),c.write(),d.all
+119,"Which of these class is used to create an object whose character
+ sequence is mutable?",Easy,1," Input,
+Variables, Operations",b,a.String(),b.StringBuffer(),c.Both of the mentioned,d.None of the mentioned
+120," Which of these method of class StringBuffer is used to reverse 
+sequence of characters?",Easy,1," Input,
+Variables, Operations",a,a.reverse(),b.reverseall(),c.Reverse(),d.reverseAll()
+121,"Which of these classes are used by character streams output
+ operations?",Easy,1," Input,
+Variables, Operations",b,a.ReadStream,b.Writer,c.InputStream,d.InputOutputStream
+122,How to store heavy structured data in android?,Easy,1," Input,
+Variables, Operations",c,a.Shared Preferences,b.Cursor,c.SQlite database,"d.Not possible
+
+"
+123,What are the wake locks available in android?,Easy,1," Input,
+Variables, Operations",d,a.PARTIAL_WAKE_LOCK,b.SCREEN_DIM_WAKE_LOCK,c.FULL_WAKE_LOCK,d.FULL_WAKE_LOCK
+124,What is APK in android?,Easy,1," Input,
+Variables, Operations",c,a. Android packages,b.Android pack,c. Android packaging kit,d.None of the above.
+125,Fragment in Android can be found through,Easy,1," Input,
+Variables, Operations",d,a.findByID(),b.findFragmentByID(),c.findFragmentByID(),d.FragmentManager.findFragmentByID()
+126,Is it possible activity without UI in android?,Easy,1," Input,
+Variables, Operations",b,"a.No, it's not possible","b.Yes,it's possible",c.We can't say,d.None of the above
+127,How do you join two notifications in android?,Easy,1," Input,
+Variables, Operations",d,a.Give same id for both notifications,b.Write notification code two times,c.It is not possible in android,d.A & C
+128,How to move services to foreground in android?,Hard,1," Input,
+Variables, Operations",d,a.Services always work in Foreground only,"b.No,We can't do this query",c.Using startService(Intent intent),d.startFordgroud
+129,What are the functionalities in asyncTask in android?,Hard,1," Input,
+Variables, Operations",a,a.onPostExecution(),b.onProgressUpdate(),c.onPreExecution(),d.doInBackground()
+130,The fields in an interface are implicitly specified as…?,Hard,1," Input,
+Variables, Operations",d,a.static only,b.protected,c. both static and final,d.none
+131,What does AOAP stands for?,Hard,1," Input,
+Variables, Operations",d,a.Android open stack programming,b.Android open system programming,c.Android open source protocol,d.Android open source project
+132,Which of these are not one of the three main components of the APK?,Hard,1," Input,
+Variables, Operations",d,a.Dalvik Executable,b.Resources,c.Native Libraries,d.Webkit
+133," If you want share the data across the all applications ,you should
+ go for?",Hard,1," Input,
+Variables, Operations",b,a.Shared Preferences,b.Content provider,c. Internal Storage,d.SQLite Databases
+134,"If the UI begins to behave sluggishly or crash while making
+ network calls, this is likely due to…",Hard,1," Input,
+Variables, Operations",a,a.Network latency,b. Hardware malfunctions,c. Virus on the Server,d.Activity manager contains too much.
+135,"How does Gargenta approach the problem of the app acting 
+sluggishly due to network latency?",Hard,1," Input,
+Variables, Operations",d,a.Starting over,b.Switching API levels,c.Refactoring code,d.Multithreading
+136,"When developing for the Android OS, Java byte code is compiled into what?",Hard,1," Input,
+Variables, Operations",b,a.Java source code,b.Dalvik byte code,c.Dalvik application code,d. C source code
+137,Which of the following is NOT a state in the lifecycle of a service?,Hard,1," Input,
+Variables, Operations",d,a.Starting,b.Running,c.Destroyed,d.pasued
+138,What is contained within the manifest xml file?,Hard,1," Input,
+Variables, Operations",a,a.The permissions the app requires,b.The list of strings used in the app,c.The source code,d. All other choices
+139,"Status data will be exposed to the rest of the Android system via
+ which one ?",Hard,1," Input,
+Variables, Operations",c,a. Intents,b. Network receivers,c.A content provider,d.none
+140,Which one is NOT related to fragment class?,Hard,1," Input,
+Variables, Operations",d,a.dialogFragment,b.listFragment,c.preferenceFragment,d.cursorFragment
+141,What are the indirect Direct subclasses of Activity?,Easy,1," Input,
+Variables, Operations",d,a. launcherActivity,b.preferenceActivity,c.  tabActivity,d.all the above
+142,"Once installed on a device, each Android application lives
+ in_______?",Medium,1," Input,
+Variables, Operations",c,a. device memory,b.external memory,c.security sandbox,d.none of the above
+143,Which component is not activated by an Intent?,Hard,1," Input,
+Variables, Operations",b,a.activity,b.contentProvider,c.services,d.broadcastReceiver
+144,What are the indirect Direct subclasses of Services?,Expert,1," Input,
+Variables, Operations",d,a.recognitionService,b.remoteViewsService,c.spellCheckerService,d.  inputMethodService
+145,Which are the  screen densities in Android?,Easy,1," Input,
+Variables, Operations",d,a.low density,b. medium density,c.extra high density,d.all of the above
+146,You can shut down an activity by calling its _______ method,Medium,1," Input,
+Variables, Operations",c,a.onDestory(),b.finishActivity(),c. finish(),d.none of the above
+147,When contentProvider would be activated?,Hard,1," Input,
+Variables, Operations",c,a.using Intent,b.using SQLite,c.using ContentResolver,d.none of the above
+148,What are the Direct subclasses of Activity?,Expert,1," Input,
+Variables, Operations",d,a.ListActivity,b.ActivityGroup,c.FragmentActivity,d.all the aove
+149,How many ways to start services?,Easy,1," Input,
+Variables, Operations",c,a.  Started,b. bound,c.a & b,d.messenger
+150,What is Parent class of Activity?,Medium,1," Input,
+Variables, Operations",b,a.  Object,b.context,c.activityGroup,d.contextThemeWrapper
+151, Creating a UI (User Interface) in Android requires careful use of?,Expert,1," Input,
+Variables, Operations",c,a. Java and SQL,b. XML and C++,c.XML and Java,d. Dream weaver
+152,"What was the main reason for replacing the Java VM with the 
+Dalvik VM when the project began?",Easy,1," Input,
+Variables, Operations",b,a.There was not enough memory capability,b. Java virtual machine was not free,c.Java VM was too complicated to configure,d.Java VM ran too slow
+153,Which piece of code used in Android is not open source?,Medium,1," Input,
+Variables, Operations",b,a. Keypad driver,b.WiFi driver,c.Audio driver,d.Power management
+154,"What is the name of XML file that contains all the text that your
+ application uses?",Expert,1," Input,
+Variables, Operations",c,a.stack.xml,b.text.xml,c.strings.xml,d.string.java
+155,"When the activity is not in focus, but still visible on the screen it is 
+in?",Easy,1," Input,
+Variables, Operations",c,a.running state,b. stopped state,c.paused state,d.destroyed state
+156,"The Emulator is identical to running a real phone EXCEPT when
+ emulating/simulating what?",Medium,1," Input,
+Variables, Operations",c,a.Telephony,b.  Applications,c.Sensors,d.The emulator can emulate/simulate all 
+157,W is the dialog classes in android?,Expert,1," Input,
+Variables, Operations",d,a.AlertDialog,b.ProgressDialog,c.DatePickerDialog,d.All of the above
+158,Which among these are NOT a part of Android’s native libraries?,Easy,1," Input,
+Variables, Operations",b,a. Webkit,b.Dalvik,c.OpenGL,d.SQLite
+159,"What is the name of the program that converts Java byte code into
+ Dalvik byte code?",Medium,1," Input,
+Variables, Operations",c,a. Android Interpretive Compiler (AIC),b. Dalvik Converter,c.Dex compiler,d.Mobile Interpretive Compiler (MIC)
+160,"While developing Android applications, developers can test their apps on..?",Medium,1," Input,
+Variables, Operations",d,a.Emulator included in Android SDK,b.Physical Android phone,"c.Third-party Emulators (Youwave, etc.)",d.All three options will work
+161,to create image as an app icon it should be stored in ,Easy,1,Icon and Decision making Control,a,a) drawable,b) mipmap,c) values,d) layout
+162,to create image as an app icon which file it's source path should be stored in ,Medium,1,Icon and Decision making Control,b,a)MainActivity,b)AndroidManifest,c)AndroidTest,d)UnitTest
+163,the basic attribute of RadioButton is___ ,Hard,1,Icon and Decision making Control,c,a) android:text,b) android:layout_width,c) android:checkedButton,d) android:onClick
+164,to declare app name where it should be written,Expert,1,Icon and Decision making Control,a,a) values,b) layout,c) drawable,d) mipmap
+165,to create a view as big as its parent view which property should be used,Expert,1,Icon and Decision making Control,b,a) wrap_content,b) match_parent,c) 10dp,d) none
+166,"From which API level the view property ""fill_parent"" is depreacated  and replaced it by ""match_parent""",Expert,1,Icon and Decision making Control,b,a) API level 9,b) API level 8,c) API level 7,d) API level 6
+167,to change app icon color which xml file it should be defined,Easy,1,Icon and Decision making Control,c,a) strings,b) styles,c) colors,d) activity_main
+168,"to uniquely defined every view by it's id of 
+Xml component which method skould be used?",Medium,1,Icon and Decision making Control,c,a) finalize(),b) setFeatureDrawable(),c) findViewById(),d) none
+169,the android platform supports __ broad categories of sensors,Easy,1,Icon and Decision making Control,a,a) three,b) two,c) four,d) five
+170,which sensor android platform support ?,Medium,1,Icon and Decision making Control,d,a) Motion ,b) Environmental,c) position,d) all of the above
+171,"first which method used to instantiate 
+the object of SensorManager class",Hard,1,Icon and Decision making Control,a,a) getSystemService(),b)getDefaultSensor(),c) getOrientation(),d) none
+172,Which file the activity name should be declared to start as launch activity when app is running?,Expert,1,Icon and Decision making Control,d,a) AndroidTest,b) UnitTest,c) Gradle,d) AndroidManifest
+173,which file should be define minSDK and target SDK version ,Medium,1,Icon and Decision making Control,a,a)build.gradle,b) settings.gradle,c) AndroidManifest,d) none
+174,"android:id=""@+id/textView2"" it define",Medium,1,Icon and Decision making Control,a,a) TextView Id,b) EditText Id,c) Button Id,d.none
+175,"android:layout_width=""wrap_content"" is used to define view width",Hard,1,Icon and Decision making Control,a,a) as big as to enclose its view content,b) as big as to enclose its child view content,c) as big as to enclose its parent view content,d) none
+176,"android:layout_below=""@+id/imageView"" is used to 
+define that the view will appear",Expert,1,Icon and Decision making Control,a,a) below of Image View,b) top of Image View,c) align of Image View,d) none
+177,"android:layout_centerHorizontal=""true"" is define that view 
+will appear horizontally at",Easy,1,Icon and Decision making Control,b,a) top,b) center,c) bottom,d) none
+178,"What is the ""Params"" parameter type of Async Task?",Medium,1,Evaluation-Android,c.string,a.array,b.integer,c.string,d.structure
+179,"What is the ""Progress"" parameter type of Async Task?",Medium,1,Evaluation-Android,d.void,a.array,b.integer,c.string,d.void
+180,"What is the ""Result"" parameter type of Async Task?",Medium,1,Evaluation-Android,a.Bitmap,a.Bitmap,b.HashMap,c.String,d.Void
+181,Which method downloads content in Async Task?,Easy,1,Evaluation-Android,c.doInBackground(),a.onProgressUpdate(),b.publishProgress(),c.doInBackground(),d.Progress()
+182,Which method updates the percent progress in Async Task?,Hard,1,Evaluation-Android,a.onProgressUpdate(),a.onProgressUpdate(),b.publishProgress(),c.doInBackground(),d.Progress()
+183,Which one is a android state?,Easy,1,Evaluation-Android,d) All of the above,a) Foreground,b) Visible,c) Background,d) All of the above
+184,What role does Dalvik play in Android development?,Expert,1,Evaluation-Android,c) Virtual Machine,a) API,b) Services,c) Virtual Machine,d) Debugger
+185,Which method is used for garbage collection?,Medium,1,Evaluation-Android,a) System.gc(),a) system.gc(),b) Activity#garbage(),c) garbage(),d) gc()
+186,What is the functionality of MODE_WORLD_WRITEABLE in shared preferences?,Hard,1,Evaluation-Android,b) Allow other application to write the preferences in my application,a) Application can write in resources of another,b) Allow other application to write the preferences in my application,c) Aone of the above,d) Database manipulation permission
+187,Which method to use for copying data into clipbord?,Expert,1,Evaluation-Android,a) ClipData ,a) ClipData ,b) GlobalMemory,c)  Clipbord,d) SharedPreferences
+188,What is the name of the AI inside Android?,Easy,1,Evaluation-Android,d) Google assistant,a) Siri,b) Home,c) Google secretary,d) Google assistant
+189,What is a Sticky Intent?,Expert,1,Evaluation-Android,c) broadcast from sendStickyBroadcast() method,a) Create widget,b) Create sticky note,c) broadcast from sendStickyBroadcast() method,d) push notifications
+190,"Which of these classes are used by character streams for input and
+ output operations?",Medium,1,Evaluation-Android,b,a.InputStream,b.Writer,c.ReadStream,d.InputOutputStream
+191,Which of these class is used to read from byte array?,Medium,1,Evaluation-Android,d,a.InputStream,b.BufferedInputStream,c.ArrayInputStream.,d.ByteArrayInputStream.
+192,Which exception is thrown by read() method?,Medium,1,Evaluation-Android,a,a.IOException,b.InterruptedException,c.SystemException,d.InterruptedException
+193,Which of these is used to read a string from the input stream?,Medium,1,Evaluation-Android,d,a.get(),b.getl_ine(),c.read(),d.read_line()
+194,"Which of these class is used to read characters and strings in Java
+ from console?",Medium,1,Evaluation-Android,a,a.BufferedReader,b.StringReader,c.BufferedStreamReader,d.InputStreamReader
+195,"Which of these classes are used by Byte streams for input and
+ output operation?",Medium,1,Evaluation-Android,b,a.Reader,b.InputStream,c.InputOutputStream,d.All of the mentioned
+196,Which of these class is implemented by FilterInputStream class?,Medium,1,Evaluation-Android,a,a.FileInputStream,b.BufferedInputStream,c.InputStream,d.none
+197,Which of these class contains the methods print() & println()?,Medium,1,Evaluation-Android,d,a.System,b.System.out,c.BUfferedOutputStream,d.PrintStream
+198,Which of these methods can be used to writing console output?,Easy,1,Evaluation-Android,d,a.print(),b.println(),c.write(),d.all
+199,"Which of these class is used to create an object whose character
+ sequence is mutable?",Easy,1,Evaluation-Android,b,a.String(),b.StringBuffer(),c.Both of the mentioned,d.None of the mentioned
+200," Which of these method of class StringBuffer is used to reverse 
+sequence of characters?",Easy,1,Evaluation-Android,a,a.reverse(),b.reverseall(),c.Reverse(),d.reverseAll()
+201,"Which of these classes are used by character streams output
+ operations?",Easy,1,Evaluation-Android,b,a.ReadStream,b.Writer,c.InputStream,d.InputOutputStream
+202,How to store heavy structured data in android?,Easy,1,Evaluation-Android,c,a.Shared Preferences,b.Cursor,c.SQlite database,"d.Not possible
+
+"
+203,What are the wake locks available in android?,Easy,1,Evaluation-Android,d,a.PARTIAL_WAKE_LOCK,b.SCREEN_DIM_WAKE_LOCK,c.FULL_WAKE_LOCK,d.FULL_WAKE_LOCK
+204,What is APK in android?,Easy,1,Evaluation-Android,c,a. Android packages,b.Android pack,c. Android packaging kit,d.None of the above.
+205,Fragment in Android can be found through,Easy,1,Evaluation-Android,d,a.findByID(),b.findFragmentByID(),c.findFragmentByID(),d.FragmentManager.findFragmentByID()
+206,Is it possible activity without UI in android?,Easy,1,Evaluation-Android,b,"a.No, it's not possible","b.Yes,it's possible",c.We can't say,d.None of the above
+207,How do you join two notifications in android?,Easy,1,Evaluation-Android,d,a.Give same id for both notifications,b.Write notification code two times,c.It is not possible in android,d.A & C
+208,How to move services to foreground in android?,Hard,1,Evaluation-Android,d,a.Services always work in Foreground only,"b.No,We can't do this query",c.Using startService(Intent intent),d.startFordgroud
+209,What are the functionalities in asyncTask in android?,Hard,1,Evaluation-Android,a,a.onPostExecution(),b.onProgressUpdate(),c.onPreExecution(),d.doInBackground()
+210,The fields in an interface are implicitly specified as…?,Hard,1,Evaluation-Android,d,a.static only,b.protected,c. both static and final,d.none
+211,What does AOAP stands for?,Hard,1,Evaluation-Android,d,a.Android open stack programming,b.Android open system programming,c.Android open source protocol,d.Android open source project
+212,Which of these are not one of the three main components of the APK?,Hard,1,Evaluation-Android,d,a.Dalvik Executable,b.Resources,c.Native Libraries,d.Webkit
+213," If you want share the data across the all applications ,you should
+ go for?",Hard,1,Evaluation-Android,b,a.Shared Preferences,b.Content provider,c. Internal Storage,d.SQLite Databases
+214,Which among these are NOT a part of Andriod native libraries,Medium,1,Evaluation-Android,b)Dalvik,a)WebKit,b)Dalvik,c)OpenGL,d)Sqlite
+215,Android is based on Linux for the followoing reasons,Easy,1,Evaluation-Android,d)all of the above,a)Security,b)Portability,c)Networking,d)all of the above
+216,What operating system is used as the base of Android stack?,Easy,1,Evaluation-Android,a)Linux,a)Linux,b)windows,c)java,d)XML
+217,What year was development on the Dalvik virtual machine started ?,Easy,1,Evaluation-Android,b)2005,a)2003,b)2005,c)2007,d)2006
+218,Which of these are not one of the three main componenet of the APK,Medium,1,Evaluation-Android,c)Webkit,a)Dalvik,Resources,c)Webkit,d)Libraries
+219,The emulator is identical to running a real phone expect when emulating what ? ,Easy,1,Evaluation-Android,c)Sensors,a)Telephone,b)Application,c)Sensors,d)Emulator
+220,The R file is a generated file,Expert,1,Evaluation-Android,a)automatically,a)automatically,b)manually,c)Emulated,d)None of the above.
+221,An activity can be thought of as corresponding to what?,Expert,1,Evaluation-Android,a)Java class,a)Java class,b)java project,c)java method,d)an object filed
+222,"In android studio, currently open file location can be shown by",Easy,1,Evaluation-Android,a)navigation bar,a)navigation bar,b)tool bar,c)menu bar,d)editor tab
+223,A class that allows to display messages on logcat windows is,Medium,1,Evaluation-Android,b)Log class,a)Toast Class,b)Log class,c)makeTest class,d)Show class
+224,Tab that shows system and error messages is,Easy,1,Evaluation-Android,b)messages,a)terminal,b)messages,c)TODO,d)comments
+225,"In android studio, tab in which memory usage of app is shown is called",Easy,1,Evaluation-Android,b)memory,a)CPU,b)memory,c)ADB logs,d)logcat
+226,"In android studio, service that provides client-server interface is",Easy,1,Evaluation-Android,c)startService(),a)bindService(),b)onStart(),c)startService(),d)onCreate()
+227,"To generate custom intents in android, method is used is",Hard,1,Evaluation-Android,c)broadcastIntent(),a)broadcastCreate(),b)broadcastReceive(),c)broadcastIntent(),d)broadcastStart()
+228,"Android library that provides access to content, its publishing and messaging among app components is",Expert,1,Evaluation-Android,d)android.content,a)android.app,b)android.database,c)android.opengl,d)android.content
+229,Broadcast that displays information of low battery,Easy,1,Evaluation-Android,d)android.intent.action.BATTERY_LOW,a)android.intent.action.REBOOT,b)android.intent.action.BATTERY_CHANGED,c)android.intent.action.BATTERY_OKAY,d)android.intent.action.BATTERY_LOW
+230,"In android studio, callback that is when activity is no longer visible is",Medium,1,Evaluation-Android,b)onStop,a)onDestroy,b)onStop,c)onRestart,d)onResume
+231,A type of layout element that allows its children relative position depiction is,Easy,1,Evaluation-Android,a)RelativeLayout,a)RelativeLayout,b)TextviewLayout,c)LinearLayout,d)ConstraintLayout
+232,To create a unit of code within a method signature that can be extend or shrink is enclosed by,Expert,1,Evaluation-Android,b){},a)[],b){},c)(),d)||
+233,Required android tools for development is called,Easy,1,Evaluation-Android,d)SDK,a)APK,b)JDK,c)IDE,d)SDK
+234,"In which way , JSON reader permits to read string values?",Expert,1,Evaluation-Android,a.as numbers,a.as numbers,b.as array,c.as structure,d.none
+235,Which method works to read next element from JSON array?,Hard,1,Evaluation-Android,c.both a & b,a.nextInt,b.nextString,c.both a & b,d.none
+236,"To minimize loss, how large numeric values should be written in JSON?",Medium,1,Evaluation-Android,a. as string,a. as string,b.as array,c.as it is,d.none
+237,"To maintain precision, how large numeric values should be read in JSON?",Medium,1,Evaluation-Android,a. as string,a. as string,b.as array,c.as structure,d.as ponter
+238,How many JSON streams a JSON reader should read?,Medium,1,Evaluation-Android,b.single JSON stream,a.double stream,b.single JSON stream,c.mixed data stream,d.null stream
+239,JSON reader is __. Fill the gap,Easy,1,Evaluation-Android,c.not threadsafe,a.thread vulnurable,b. thread safe,c.not threadsafe,d.risky
+240,What is a base adapter in android?,Expert,1,Evaluation-Android,"a) Base Adapter is a common class for any adapter, which can we use for both ListView and spinner","a) Base Adapter is a common class for any adapter, which can we use for both ListView and spinner",b) A kind of adapter,c) Data storage space,d) None of the above.
+241,How to declare an integer array in Android ,Medium,1,Evaluation-Android,a)  int[] IntegerArray = new int[5];,a)  int[] IntegerArray = new int[5];,b)  int IntegerArray = new int[5];,c)  int[] IntegerArray =  int[5];,d) All of them
+242,How to Assign a single value to  a fixed position of an  array,Medium,1,Evaluation-Android,b) IntegerArray[3] = 4;,a) IntegerArray = 4;,b) IntegerArray[3] = 4;,c)  IntegerArray(3])= 4;,d) int a=4
+243,How to assign multiple values to an array,Hard,1,Evaluation-Android,"c) int[] IntegerArray = new int[] {1,2,3,4,5,6,7,8,9};","int[] IntegerArray = new int[] [1,2,3,4,5,6,7,8,9];","b) int[] IntegerArray = new int[] (1,2,3,4,5,6,7,8,9);","c) int[] IntegerArray = new int[] {1,2,3,4,5,6,7,8,9};","d) int IntegerArray = new int[] {1,2,3,4,5,6,7,8,9};"
+244,Which class contains various methods for manipulating arrays in android?,Hard,1,Evaluation-Android,b)  java.util.Arrays,java.lang.Class,b)  java.util.Arrays,c) java.lang.nullpointerexception,d) java.lang.ClassNotFoundException
+245,What is the function of static <T> List<T> asList(T... a),Hard,1,Evaluation-Android,a)Returns a fixed-size list backed by the specified array.,a)Returns a fixed-size list backed by the specified array.,b) Replace a fixed-size list  by the specified array.,c) Remove a fixed-size list  ,d) Pass a fixed-size list from one to another.
+246,A type of service provided by android that allows sharing and publishing of data to other applications is,Easy,1,Evaluation-Android,b)  Content Providers,a) View System,b)  Content Providers,c)  Activity Manager,d)  Notifications Manager
+247,What data types are supported by AIDL?,Easy,1,Evaluation-Android,d) all of them,a. string,b) charSequence,c)  List,d)  all of them
+248,Which of the following Java classe related to the use of sensors on the Android platform.,Medium,1,Evaluation-Android,b) all of them,a. Sensor,b)  all of them,c)  SensorManager,d)  SensorEvent
+249,Which of the following is correct for array in android,Easy,1,Evaluation-Android,a) An Array is a fixed-length data structure,a) An Array is a fixed-length data structure,b)  An Array is a variable-length data structure,c)  None of them,d) All of them
+250,An ARRAYLIST in android is variable length data structure,Easy,1,Evaluation-Android,b) True,a) False ,b)  True,,
+251,WHICH OF THE FOLLOWING METHODS IS BETTER TO USE IN ANDROID?,Expert,1,Evaluation-Android,"c) public void two() {
+int sum = 0;
+for (Foo a : mArray) {
+sum += a.mSplat;
+}
+}
+","a) public void zero() {
+int sum = 0;
+for (int i = 0; i < mArray.length; ++i) {
+sum += mArray[i].mSplat;
+}
+}
+","b) public void one() {
+int sum = 0;
+Foo[] localArray = mArray;
+int len = localArray.length;
+for (int i = 0; i < len; ++i) {
+sum += localArray[i].mSplat;
+}
+}
+","c) public void two() {
+int sum = 0;
+for (Foo a : mArray) {
+sum += a.mSplat;
+}
+}
+",d) All of them
+252,"Android library that provides access to UI pre-built elements such as buttons, lists, views etc. is",Hard,1,Evaluation-Android,a) android.webkit,a) android.text,b) android.os,c)  android.view,d)  android.webkit
+253,Which one is NOT related to fragment class?,Easy,1,Evaluation-Android,d)   cursorFragment,a )   dialogFragment,b)  listFragment,c)    preferenceFragment,d)    cursorFragment
+254,Which provides more advantages,Medium,1,Evaluation-Android,b) RecycleView,a) ListView,b)  RecycleView,c) All of them,d) None of them
+255,Which accept any type of content within its cell without trouble?,Medium,1,Evaluation-Android,b) RecycleView,a) ListView,b)  RecycleView,c) All of them,d) None of them
+256,What are the Direct subclasses of Activity?,Easy,1,Evaluation-Android, d)   all the aove,a )   ListActivity,b)    ActivityGroup,c)    FragmentActivity,d)  all the aove
+257,What is contained within the manifest xml file?,Easy,1,Evaluation-Android, a)   The permissions the app requires, a)   The permissions the app requires, b)    The list of strings used in the app,c)    The source code,d)   All other choices
+258,Which of the following can be used to bind data from an SQL database to a ListView in an Android application?,Medium,1,Evaluation-Android,b)   SimpleCursorAdapter,a )   SimpleCursor,b) )   SimpleCursorAdapter,c)    SimpleAdapter,d)  SQLiteCursor
+259,What is the main difference between set and list in android?,Easy,1,Evaluation-Android,d) B & C,a) Both are same,b)  Set can't contain duplicate values,c)  List may contain duplicate values,d) B & C
+260,What are the functionalities of HTTP Client interface in android? ,Easy,1,Evaluation-Android,d) All of the above,a) Connection management,b)  Cookies management,c)  Authentication management,d)  All of the above
+261,What is an HTTP client class in android? ,Easy,1,Evaluation-Android,a) httprequest(get/post) and returns response from the server,a) httprequest(get/post) and returns response from the server,b)  Cookies management,c)  Authentication management,d)  None of the above
+262,How to get current location in android? ,Easy,1,Evaluation-Android,c) A & B,a) Using with GPRS,b)  Using location provider,c)  A & B,d)  Network servers
+263,Lists and adapters are more organizational aids than user interface elements in Android.,Medium,1,Evaluation-Android,a) True,a) True,b) False,,
+264,Which is the correct explanation of ListView?,Easy,1,Evaluation-Android,d) ListView has a function to display a list of uniquely defined Views other than TextView.,a) It is necessary to use ListView as a set with ListActivity.,b) You cannot use a ListView when there is no information to be displayed.,"c)  When displaying a list of Strings using an ArrayAdapter class in ListView, you must save the value in an ArrayList.",d) ListView has a function to display a list of uniquely defined Views other than TextView.
+265,The values of which of the following classes cannot be mapped in a Bundle object?,Easy,1,Evaluation-Android,d) Context,a) Parcelable,b)  String,c)  ArrayList,d)  Context
+266,"Which of the following is not a ContentProvider provided natively by Android?
+
+",Easy,1,Evaluation-Android,d) The application list,a) The contacts list,b)  The telephone log,c)  The bookmarks,d)  The application list
+267,In which Activity life-cycle method you should do all of your normal static set up such as: creating views and bind data to lists?,Easy,1,Evaluation-Android,c) onCreate(),a) onResume(),b)  onStart(),c)  onCreate(),d)  onPause()
+268,Which of the following best explains the Android option menus?,Easy,1,Evaluation-Android,"c) It is the primary collection of menu items for an activity where you should place actions that have a global impact on the app, such as ""Search,"" ""Compose email,"" and ""settings.""",a) It is a popup menu that displays a list of items in a vertical list anchored to the view that invoked the menu.,b)  It is a floating menu that appears when the user performs a long-click on an element. It provides actions that affect the selected content or context frame.,"c)  It is the primary collection of menu items for an activity where you should place actions that have a global impact on the app, such as ""Search,"" ""Compose email,"" and ""Settings.""",d)  It is a type of List Activity with predefined headers and footers for special commands.
+269,Which of the following applies a context menu on a ListView?,Easy,1,Evaluation-Android,d) B & C,a. ListView lv = getListView(); lv.registerForContextMenu(),b)  ListView lv= getListView(); registerForContextMenu(lv);,c)  ListView lv = (ListView) findViewById(R.id.list_view_id); registerForContextMenu(lv),d)  B & C
+270,Which of the following methods updates a ListView when an element is added to the data set?,Hard,1,Evaluation-Android,c) notifyDataSetChanged( ),a) notify( ),b) notifyAll( ),c) notifyDataSetChanged( ),d) notifyDataSetInvalidate( )
+271,"What does the following code achieve? Intent intent = new Intent(FirstActivity.this, SecondActivity.class); startActivityForResult(intent);",Expert,1,Evaluation-Android,b) Starts a sub-activity,a. Starts a browser activity,b)  Starts a sub-activity,c)  Starts an activity service,d)  Sends results to another activity.
+272,What is a base adapter in android?,Easy,1,Evaluation-Android,"a) Base Adapter is a common class for any adapter, which can we use for both ListView and spinner","Base Adapter is a common class for any adapter, which can we use for both ListView and spinner",b) A kind of adapter,c) Data storage space,d) None of the above.
+273,Android doesn't support which format.,Easy,1,Evaluation-Android,c) AVI,a) MP4,b) MPEG,c) AVI,d)MIDI
+274,Web browser available in android is based on,Easy,1,Evaluation-Android,c) Open-source Webkit,a) Chrome,b) Firefox,c) Open-source Webkit,d) Opera
+275,Is list data type supported by AIDL?,Easy,1,Evaluation-Android,a) Yes,a) Yes,b) No,,
+276,"Which of the following is true about object arrayAdapter declared in the code below?
+
+String[] items = {""Item 1"",""Item 2"",""Item 3"");
+
+ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, items);
+
+listView.setAdapter(arrayAdapter);",Expert,1,Evaluation-Android,d) It creates a TextView for each String in array items.,a) It creates four views for listView.,b) It creates Buttons for each String in array items.,c) It replaces the layout of the activity with three consecutive TextView items.,d) It creates a TextView for each String in array items.
+277,Which of the following is NOT a correct constructer for ArrayAdapter?,Hard,1,Evaluation-Android,"c)ArrayAdapter (Context context, int resource, int textViewResourceld)","a) ArrayAdapter (Context context, int resourse)","b) ArrayAdapter (Context context, int resource, List<T> items)","c) ArrayAdapter (Context context, int resource, int textViewResourceld)",d) ArrayAdapter (Context context)
+278,Which of the following add a click listener to items in a listView?,Hard,1,Evaluation-Android,b) onItemClickListener,a) onItemClicked,b) onItemClickListener,c) onListItemClickListener,d) onClickListener
+279,Which of the following is NOT a correct constructer for ArrayAdapter?,Hard,1,Evaluation-Android,"c) ArrayAdapter (Context context, int resource, int textViewResourceld)","a) ArrayAdapter (Context context, int resourse)","b) ArrayAdapter (Context context, int resource, List<T> items)","c) ArrayAdapter (Context context, int resource, int textViewResourceld)",d) ArrayAdapter (Context context)
+280,"To create a customized Adapter for a compound list item layout, you should:",Hard,1,Evaluation-Android,c) Extend class android.widget.Adapter or any of its descendants then override method getView(),"a) Extend class android.widget.ListView or any of its descendants, then override method a) a) getView()","b) Extend class android.widget.AbsAdapter or any of its descendants, then override method getView()",c) Extend class android.widget.Adapter or any of its descendants then override method getView(),"d) Extend class android.widget.Adapter or any of its descendants, then override method getAdapterView()"
+281,Which of the following makes a ListView Clickable?,Medium,1,Evaluation-Android,a) setEnabled(true),a) setEnabled(true),b) SetItemsEnabled(true),c) setClickable(true),d) setVisibility(View.Visible)
+282,in which Activity life-cycle method you should do all of your normal static set up such as: creating views and bind data to lists?,Medium,1,Evaluation-Android,d) onCreate(),a) onStart(),b) onPause(),c) onResume(),d) onCreate()
+283,Which of the following browser android support?,Easy,1,Evaluation-Android,a) A and D,a) Dolphin Browser,b) Chrome,c) Opera,d) Ecosia browser
+284,RecyclerView does not contain setOnItemClickListener as ListView by default,Hard,1,Evaluation-Android,a) True,a) True,b) False,,
+285,What is ListView?,Medium,1,Evaluation-Android,b) ListView is a view group that displays a list of scrollable items. ,a) ListView is a view group that remove a list of scrollable items. ,b) ListView is a view group that displays a list of scrollable items. ,c)  ListView is a view group that displays a list of scrollable items. ,d)  ListView is a view group that insert a list of scrollable items. 
+286,The list items are automatically inserted to the list using an,Medium,1,Evaluation-Android,c) Adapter,a) Array,b) Object,c) Adapter,d) None of them
+287,How to initialize a adapter (ArrayAdapter),Expert,1,Evaluation-Android,"a) ArrayAdapter<String> itemsAdapter = 
+    new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, items);","a) ArrayAdapter<String> itemsAdapter = 
+    new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, items);","b)  ArrayAdapter<String> itemsAdapter = 
+    old  ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, items);","c)  itemsAdapter = 
+    new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, items);","d) ArrayAdapter<String> itemsAdapter = <String>(this, android.R.layout.simple_list_item_1, items);"
+288,How to connect a adapter ((ArrayAdapter)) to a ListView,Expert,1,Evaluation-Android,"b) ListView listView = (ListView) findViewById(R.id.lvItems);
+listView.setAdapter(itemsAdapter);","a) ListView listView = (ListView) findViewById;
+listView.setAdapter(itemsAdapter);","ListView listView = (ListView) findViewById(R.id.lvItems);
+listView.setAdapter(itemsAdapter);","ListView listView = (ListView) findViewById(R.id.lvItems);
+","d) ListView listView = (ListView) findViewById(R.id.lvItems);
+setAdapter(itemsAdapter);"
+289,How to create a static array of strings in Android ,Expert,1,Evaluation-Android,"a) <?xml version=""1.0"" encoding=""utf-8""?>
+<resources>
+    <string-array name=""my_books"">
+        <item>Scala Cookbook</item>
+        <item>Play Framework Recipes</item>
+        <item>How I Sold My Business: A Personal Diary</item>
+        <item>A Survival Guide for New Consultants</item>
+    </string-array>
+</resources>
+
+Resources res = getResources();
+String[] myBooks = res.getStringArray(R.array.my_books);","a) <?xml version=""1.0"" encoding=""utf-8""?>
+<resources>
+    <string-array name=""my_books"">
+        <item>Scala Cookbook</item>
+        <item>Play Framework Recipes</item>
+        <item>How I Sold My Business: A Personal Diary</item>
+        <item>A Survival Guide for New Consultants</item>
+    </string-array>
+</resources>
+
+Resources res = getResources();
+String[] myBooks = res.getStringArray(R.array.my_books);","b) <?xml version=""1.0"" encoding=""utf-8""?>
+<resources>
+    <string-array name=""my_books"">
+        <item>Scala Cookbook</item>
+        <item>Play Framework Recipes</item>
+        <item>How I Sold My Business: A Personal Diary</item>
+        <item>A Survival Guide for New Consultants</item>
+    </string-array>
+</resources>
+
+Resources res = getResources();
+String[] myBooks = getStringArray(R.array.my_books);","c) <?xml version=""1.0"" encoding=""utf-8""?>
+<resources>
+    <string-array name=""my_books"">
+        <item>Scala Cookbook</item>
+        <item>Play Framework Recipes</item>
+        <item>How I Sold My Business: A Personal Diary</item>
+        <item>A Survival Guide for New Consultants</item>
+    </string-array>
+</resources>
+
+Resources res = getResources();
+String myBooks = res.getStringArray(R.array.my_books);",d) All of them
+290,How to print an array in Android Log output,Expert,1,Evaluation-Android,"a) Log.i(""MyAndroidClass"", Arrays.toString(arr));","a) Log.i(""MyAndroidClass"", Arrays.toString(arr));","b)  Log(""MyAndroidClass"", Arrays.toString(arr));","c) print(""MyAndroidClass"", Arrays.toString(arr));",d) None of them
+291,How to Define a String Array Resources Using String Resource References,Expert,1,Evaluation-Android,"b) <?xml version=""1.0"" encoding=""utf-8""?>
+<resources>
+    <string-array
+        name=""races_array"">
+        <item>@string/race_goblin</item>
+        <item>@string/race_orc</item>
+        <item>@string/race_elf</item>
+        <item>@string/race_human</item>
+        <item>@string/race_troll</item>
+        <item>@string/race_halfling</item>
+    </string-array>
+</resources>","a) <?xml version=""1.0"" encoding=""utf-8""?>
+<resources>
+    <string-array
+        name=""races_array"">
+        <item1>@string/race_goblin</item>
+        <item2>@string/race_orc</item>
+        <item3>@string/race_elf</item>
+        <item4>@string/race_human</item>
+        <item5>@string/race_troll</item>
+        <item6>@string/race_halfling</item>
+    </string-array>
+</resources>","b) <?xml version=""1.0"" encoding=""utf-8""?>
+<resources>
+    <string-array
+        name=""races_array"">
+        <item>@string/race_goblin</item>
+        <item>@string/race_orc</item>
+        <item>@string/race_elf</item>
+        <item>@string/race_human</item>
+        <item>@string/race_troll</item>
+        <item>@string/race_halfling</item>
+    </string-array>
+</resources>","c) <?xml version=""1.0"" encoding=""utf-8""?>
+<resources100>
+    <string-array
+        name=""races_array"">
+        <item>@string/race_goblin</item>
+        <item>@string/race_orc</item>
+        <item>@string/race_elf</item>
+        <item>@string/race_human</item>
+        <item>@string/race_troll</item>
+        <item>@string/race_halfling</item>
+    </string-array>
+</resources>","d) <?xml version=""1.0"" encoding=""utf-8""?>
+<resources>
+    <string-array
+        name=""races_array"">
+        <item>@string/race_goblin
+        <item>@string/race_orc
+        <item>@string/race_elf
+        <item>@string/race_human
+        <item>@string/race_troll
+        <item>@string/race_halfling
+    </string-array>
+</resources>"
+292,How to Load a String Array Resources Programmatically,Expert,1,Evaluation-Android,d) String[] cRaces = getResources().getStringArray(R.array.races_array);,d) String cRaces = getResources().getStringArray(R.array.races_array);,b)  String[] cRaces = getResources();,c)  String[] cRaces =getStringArray(R.array.races_array);,d) String[] cRaces = getResources().getStringArray(R.array.races_array);
+293,How to Reference an Array Resources in Simple Spinner Controls,Expert,1,Evaluation-Android,"c) <Spinner
+     android:layout_height=""wrap_content""
+     android:layout_width=""match_parent""
+     android:id=""@+id/spinnerOfCharacterRaces""
+     android:entries=""@array/races_array"">
+</Spinner>","c) <Spinner>
+     android:layout_height=""wrap_content""
+     android:layout_width=""match_parent""
+     android:id=""@+id/spinnerOfCharacterRaces""
+     android:entries=""@array/races_array"">
+</Spinner>","b) <Spinner>
+     android:layout_height=""wrap_content""
+     android:layout_width=""match_parent""
+     android:id=""@+id/spinnerOfCharacterRaces""
+     android:entries=""@array/races_array"">
+<Spinner>","c) <Spinner
+     android:layout_height=""wrap_content""
+     android:layout_width=""match_parent""
+     android:id=""@+id/spinnerOfCharacterRaces""
+     android:entries=""@array/races_array"">
+</Spinner>",All of them
+294,How to Define a ListView in xml file,Expert,1,Evaluation-Android,"a) <ListView
+        android:id=""@+id/list""
+        android:layout_height=""wrap_content""
+        android:layout_width=""match_parent"">
+    </ListView>","a) <ListView
+        android:id=""@+id/list""
+        android:layout_height=""wrap_content""
+        android:layout_width=""match_parent"">
+    </ListView>","b)  <ListView>
+        android:id=""@+id/list""
+        android:layout_height=""wrap_content""
+        android:layout_width=""match_parent"">
+    </ListView>","c) <ListView
+        android:id=""id/list""
+        android:layout_height=""wrap_content""
+        android:layout_width=""match_parent"">
+    </ListView>",None of them
+295,What is the class name of List in android  ,Hard,1,Evaluation-Android,d)  import java.util.List;,a)  import java.util.io;,b)  import util.List;,c)  import java.util.Lang;,d)  import java.util.List;
+296,Which of the following is valid to store  a string (R.string) in a list,Hard,1,Evaluation-Android,"b)  List<String> list = new ArrayList<String>();
+  list.add(getResources().getString(R.string.helloworld));","a)  List<String> list = new ArrayList<String>();
+  list.add(getResources().getString(R));","b)  List<String> list = new ArrayList<String>();
+  list.add(getResources().getString(R.string.helloworld));",c) None of them,d) All of them
+297,How to initialize a new ArrayAdapter using a constructor to specify the layout for each string,Hard,1,Evaluation-Android,"c) ArrayAdapter adapter = new ArrayAdapter<String>(this,R.layout.ListView,StringArray);","c) ArrayAdapter adapter =  ArrayAdapter<String>(this,R.layout.ListView,StringArray);","b)  ArrayAdapter adapter = new ArrayAdapter<String>(R.layout.ListView,StringArray);","c) ArrayAdapter adapter = new ArrayAdapter<String>(this,R.layout.ListView,StringArray);","d)   adapter = new ArrayAdapter<String>(this,R.layout.ListView,StringArray);"
+298,How to call setAdapter() on your ListView object after creating an array adapter,Expert,1,Evaluation-Android,"a) ListView listView = (ListView) findViewById(R.id.listview);
+listView.setAdapter(adapter);","a) ListView listView = (ListView) findViewById(R.id.listview);
+listView.setAdapter(adapter);","b) ListView listView = (ListView) findViewById(R.id.listview);
+setAdapter(adapter);","c) ListView listView = (ListView) findViewById(listview);
+listView.setAdapter(adapter);",d)  B & C
+299,What is the name of the base class for dialogs,Easy,1,Evaluation-Android,a) Dialog,a) Dialog,b)  FirstDialog,c)  DialogClass,d) None of them
+300,"A dialog that can show a title, up to three buttons, a list of selectable items, or a custom layout.",Easy,1,Evaluation-Android,a) True,a) True,b) False,,
+301,Which dialog class shows a dialog with a progress bar. ,Easy,1,Evaluation-Android,c) ProgressDialog,a) AlertDialog,b) DatePickerDialog,c) ProgressDialog,d) TimePickerDialog
+302,Which is used in a layout if you want to  indicate loading progress,Easy,1,Evaluation-Android,b) ProgressBar,a) Progress & Activity ,b) ProgressBar,c) ProgressDialog,d) None of them
+303,What are the functionalities of Dialog classes,Easy,1,Evaluation-Android,b) define the style and structure for a dialog,a) Assign a dialog,b) define the style and structure for a dialog,c)  define the style  for a dialog only,d)  define the structure for a dialog only
+304,Which class provides all controls required to create a dialog,Easy,1,Evaluation-Android,d) DialogFragment,a) ManageDialog,b) ControllDialog,c) Dialog,d) DialogFragment
+305,Which  class  allows you to reuse a dialog's UI as an embeddable component in a larger UI,Easy,1,Evaluation-Android,d) DialogFragment,a) ManageDialog,b) ControllDialog,c) Dialog,d) DialogFragment
+306,How to create an AlertDialog,Hard,1,Evaluation-Android,a)  AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());,a)  AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());,b)   AlertDialog= new AlertDialog.Builder(getActivity());,c)   AlertDialog.Builder builder = new Builder(getActivity());,d)   AlertDialog.Builder builder = new AlertDialog(getActivity());
+307,How to create an  AlertDialog object ,Hard,1,Evaluation-Android,b) builder.create();,a) make.create();,b) builder.create();,c)  builder.ready();,d) All of them
+308,How to return an  AlertDialog object ,Hard,1,Evaluation-Android,b) return builder.create();,a) return AlertDialog;,b) return builder.create();,c)  return maker.create();,d) None of them
+309,How to show a dialog in a figure,Hard,1,Evaluation-Android,a) call by show() function,a) call by show() function,b)  call by display() function,c)  call by showing() function,d) None of them
+310,Which Class provides APIs that allow you to create an AlertDialog,Hard,1,Evaluation-Android,a) AlertDialog.Builder,a) AlertDialog.Builder,b) ProgressDialog,c) ProgressDialog.Builder,d)  AlertDialog.Maker
+311,How to Instantiate an AlertDialog.Builder with its constructor,Hard,1,Evaluation-Android,c) AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());,a) AlertDialog.Builder builder = AlertDialog.Builder(getActivity());,b)  AlertDialog = new AlertDialog.Builder(getActivity());,c) AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());,d)  AlertDialog.Builder builder = new AlertDialog.Builder;
+312,How to  Get a AlertDialog from create(),Hard,1,Evaluation-Android,c) AlertDialog dialog = builder.create();,a) AlertDialog = builder.create();,b)  AlertDialog dialog = builder();,c) AlertDialog dialog = builder.create();,d)  AlertDialog dialog = create();
+313,When onListItemClick method will be called,Hard,1,Evaluation-Android,d) when an item in the list is selected,a) None of them,b) when an item in the list is disselected,c)  when an item to be deleted from a list,d) when an item in the list is selected
+314,How to declare onListItemClick method,Expert,1,Evaluation-Android,"d) protected void onListItemClick (ListView l, 
+                View v, 
+                int position, 
+                long id)
+","a) protected void onListItemClick (ListView l, 
+                int position, 
+                long id)
+","b) protected void onListItemClick (
+                View v, 
+                int position, 
+                long id )
+","c)  protected void onListItemClick (ListView l, 
+                View v, 
+              )
+","d) protected void onListItemClick (ListView l, 
+                View v, 
+                int position, 
+                long id)
+"
+315,What is the general structure of switch in android,Expert,1,Evaluation-Android,"a) switch(index){
+    case 0:
+        //Do this and this        break;
+    case 1:
+        //Do this and this        break;
+    case 2:
+        //Do this and this:        break;
+    default: //For all other cases, do this        break;
+}","a) switch(index){
+    case 0:
+        //Do this and this        break;
+    case 1:
+        //Do this and this        break;
+    case 2:
+        //Do this and this:        break;
+    default: //For all other cases, do this        break;
+}","b) switchForAndroid(index){
+    case 0:
+        //Do this and this        break;
+    case 1:
+        //Do this and this        break;
+    case 2:
+        //Do this and this:        break;
+    default: //For all other cases, do this        break;
+}","c) switch(index){
+    Androidcase 0:
+        //Do this and this        break;
+    Androidcase 1:
+        //Do this and this        break;
+    Androidcase 2:
+        //Do this and this:        break;
+    default: //For all other cases, do this        break;
+}",d) None of them
+316,What is An Intent in android,Easy,1,Evaluation-Android,b) a messaging object,a) a view object,b) a messaging object,A and B,d) None of them
+317,What is An Activity,Medium,1,Evaluation-Android,b) An Activity represents a single screen in an app,a) An Activity represents a multiple screens in an app,b) An Activity represents a single screen in an app,c)  An Activity represents exactly two  screens in an app,d) All of them
+318,Whan is A Service,Medium,1,Evaluation-Android,a) A Service is a component that performs operations in the background without a user interface.,a) A Service is a component that performs operations in the background without a user interface.,b) A Service is a component that performs operations in the background with a user interface.,c)  A Service is a component that performs operations in the foreground without a user interface.,d) A Service is a component that performs operations in the foreground with a user interface.
+319,How many types of Intent  are,Easy,1,Evaluation-Android,d) 2,3,4,c) 5,d) 2
+320,Which of the followings are intent type,Medium,1,Evaluation-Android,a) A and C,a) Explicit intents,b) Modern intents,c) Implicit intents ,d) Call intents 
+321,"What is the name of the activity allows itself to be started by a web browser to display data referenced by a link, such as an image or an e-mail message.",Medium,1,Evaluation-Android,a) CATEGORY_BROWSABLE,a) CATEGORY_BROWSABLE,b) CATEGORY_LAUNCHER,c) CATEGORY_BROWSE,d) All of them
+322,What if Flags in Intent,Hard,1,Evaluation-Android,b) Metadat for an intent,a) Metadat for an intent,b) Metadat for an Bundle,c) All of them,d) one of them
+323,Which of the following is an activity declaration with an intent filter to receive an ACTION_SEND intent when the data type is text,Expert,1,Evaluation-Android,"b) <activity android:name=""ShareActivity"">
+    <intent-filter>
+        <action android:name=""android.intent.action.SEND""/>
+        <category android:name=""android.intent.category.DEFAULT""/>
+        <data android:mimeType=""text/plain""/>
+    </intent-filter>
+</activity>","a) <activity>
+    <intent-filter>
+        <action android:name=""android.intent.action.SEND""/>
+        <category android:name=""android.intent.category.DEFAULT""/>
+        <data android:mimeType=""text/plain""/>
+    </intent-filter>
+</activity>","b) <activity android:name=""ShareActivity"">
+    <intent-filter>
+        <action android:name=""android.intent.action.SEND""/>
+        <category android:name=""android.intent.category.DEFAULT""/>
+        <data android:mimeType=""text/plain""/>
+    </intent-filter>
+</activity>","c) <activity android:name=""ShareActivity"">
+    
+        <action android:name=""android.intent.action.SEND""/>
+        <category android:name=""android.intent.category.DEFAULT""/>
+        <data android:mimeType=""text/plain""/>
+    
+</activity>","d) <activity android:name=""ShareActivity"">
+    <intent-filter/>
+        <action android:name=""android.intent.action.SEND""/>
+        <category android:name=""android.intent.category.DEFAULT""/>
+        <data android:mimeType=""text/plain""/>
+    <//intent-filter>
+</activity>"
+324,What is the function of ACTION_MAIN,Medium,1,Evaluation-Android,a) to indicates main entry point and does not expect any intent data,a) to indicates main entry point and does not expect any intent data,b)  to indicates main entry point and  expects any intent data,c)  to indicates any entry point and  expects any intent data,d)  to indicates any entry point and does not expect any intent data
+325,How to create a Intent launching the Browser From Your Android Applications,Medium,1,Evaluation-Android,"b) Intent launchBrowser = new Intent(Intent.ACTION_VIEW, uriUrl); ","a) Intent launchBrowser = Intent(Intent.ACTION_VIEW, uriUrl); ","b) Intent launchBrowser = new Intent(Intent.ACTION_VIEW, uriUrl); ","c)  Intent  = new Intent(Intent.ACTION_VIEW, uriUrl); ",d) All of them
+326,Which of the following is done to enable Web Searches,Medium,1,Evaluation-Android,b) Intent search = new Intent(Intent.ACTION_WEB_SEARCH); ,a) Intent search = Intent(Intent.ACTION_WEB_SEARCH); ,b) Intent search = new Intent(Intent.ACTION_WEB_SEARCH); ,c)  search = new Intent(Intent.ACTION_WEB_SEARCH); ,d) None of them
+327,What is the function of Layout,Easy,1,Evaluation-Android,a) to defines the structure for a user interface in your app,a) to defines the structure for a user interface in your app,b)  to defines the structure for an intent in your app,c)  to defines the structure for a storyboard in your app,d) None of them
+328,Which objects are responsible to build all elements in a layout,Easy,1,Evaluation-Android,a) View and ViewGroup,a) View and ViewGroup,b)  View and Scene,c) View and Intent,d) ViewGroup and scene
+329,a ViewGroup is,Easy,1,Evaluation-Android,c) an invisible container,a visible container,b) All of them,c) an invisible container,d) None of them
+330,"The syntax for an ID, inside an XML tag is:",Medium,1,Evaluation-Android,"b) android:id=""@+id/my_button""","a) android:id=""+id/my_button""","b) android:id=""@+id/my_button""","c)  android:id=""id/my_button""",d) All of them
+331,What is the name of the APIs used to play audio and video files,Medium,1,Evaluation-Android,d) MediaPlayer APIs,a) CDPLayer APIs,b)  Player APIs,c)  AudioVideo APIs,d) MediaPlayer APIs
+332,What is retrofit android ?,Easy,1,Evaluation-Android,a) type safe REST Client,a) type safe REST Client,b) Type safe client,c)Client,d) Session
+333,What is the aim of Retrofit?,Easy,1,Evaluation-Android,b) consume restful services,a) consume all services,b) consume restful services,c) consume web services,d) none
+334,What is by default being leaveraged by Retrofit 2?,Medium,1,Evaluation-Android,c) OKHttp,a) Http,b) Https,c) OkHttp,d) SMTP
+335,"In which, OkHttp works as a networking layer?",Hard,1,Evaluation-Android,d)Retrofit 2,a)RetroFit,b)Retro,c)Retrofit 1,d)Retrofit 2
+336,What is Volley?,Medium,,Evaluation-Android,a.Http Library   ,a.Http Library   , b.Https Library  ,c.SMTP library,d.retrofit library
+337,What is the advantage of volley in android?,Medium,,Evaluation-Android,b. Networking,a.Graphics,b. Networking,c. File Transfer,d. Image
+338,Which service isn't offered by Volley?,Hard,,Evaluation-Android,d. Auto Ordering,a.Auto Scheduling     ,b.Multiple Connections,c.Debugging & tracing  ,d. Auto Ordering
+339,Which service is offered by Volley?,Expert,,Evaluation-Android,c.Debugging & tracing  ,a.Transparent Scheduling     ,b.Multiple Cancellation,c.Debugging & tracing  ,d. Auto Ordering
+340,UI is populated by Volley using __ fill the gap,Medium,,Evaluation-Android,a.RPC type operations,a.RPC type operations,b.PPC type operations,c.API type operations,d.both a & b
+341,How a page of search is fetched by Volley?,Hard,,Evaluation-Android,c.Structured Data,a.Structured array,b.String data,c.Structured Data,d.none
+342,Which uses HTTP as an underlying protocol?,Medium,,Evaluation-Android,c.World Wide Web,a.World Wide Wan    ,b.World Wide Wap,c.World Wide Web,d.Email
+343,Which are methods of HTTP ?,Easy,,Evaluation-Android,b.POST & GET,a.POST & RETURN,b.POST & GET,c.GET & RETURN,d.RETURN    
+344,Which method of HTTP requests data?,Easy,,Evaluation-Android,b.GET,a.POST,b.GET,c.RETURN,d.None
+345,Which method of HTTP submits data?,Easy,,Evaluation-Android,a.POST,a.POST,b.GET,c.RETURN,d.None
+346,Which method of HttpURLConnection obtain a new HttpURLConnection?,Hard,,Evaluation-Android,b.URL.openConnection,a.POST,b.URL.openConnection,c.URL.connection,d.GET
+347,What are included in URI. Request headers metaData?,Medium,,Evaluation-Android,d.all of three,a.credentials,b.preferred content type,c.session cookies,d.all of three
+348,"With which, instances of URLConnection class must be initialized if they contain a request body ?",Medium,,Evaluation-Android,a.setDoOutput(true),a.setDoOutput(true),b.setDoInput(true),c.setOutput(true),d.setInput(true)
+349,Which method returns the stream which is used by URLConnection class for output ?,Hard,,Evaluation-Android,c.getOutputStream,a.getOutput,b.getInputStream,c.getOutputStream,d.getInput
+350,Which isn't imcluded in response headers metadata?,Hard,,Evaluation-Android,d. Response Body History,a.Response Body Content,b.Response Body Type,c.response body Length,d. Response Body History
+351,Which are included in response headers metadata?,Medium,,Evaluation-Android,d. all of three,a.Response Body Content,b.Response Body Type,c.response body Length,d. all of three
+352,What is returned by getInputStream if response has no body?,Medium,,Evaluation-Android,b.empty stream,a. ouput Stream,b.empty stream,c.input stream,d.null
+353,Which method closes the HTTPURLConnection?,Medium,,Evaluation-Android,c.disconnect,a.disclose,b.close,c.disconnect,d.disrupt
+354,How many redirects HttpURLConnection will follow up to?,Hard,,Evaluation-Android,a.5,a.5,b.6,c.3,d.4
+355,Which method configures the connection for uploading data to a web server ?,Medium,,Evaluation-Android,d.setDoOutput,a.setOutput,b.setUpload,c.setDoUpload,d.setDoOutput
+356,"When body length of data is known, which method should be called when uploading data?",Medium,,Evaluation-Android,c.setFixedLengthStreamingMode,a.setFixedLengthMode,b.setFixedStreamingMode,c.setFixedLengthStreamingMode,d.setFixedMode
+357,"When body length of data is not known, which method should be called when uploading data?",Medium,,Evaluation-Android,c.setChunkedStreamingMode,a.setChunkedLengthMode,b.setStreamingMode,c.setChunkedStreamingMode,d.setChunkedMode
+358,InputStream and OutputStream returned by HttpURLConnnection class are  __? Fill the gap,Easy,,Evaluation-Android,c.unbuffered,a.buffered,b.serialized,c.unbuffered,d.unserialized
+359,What HttpURLConnection class should do for reducing latency?,Medium,,Evaluation-Android,c.borh a & b,a.use same socket for maultiple request,b.use same socket for multiple response,c.borh a & b,d.none
+360,HTTP connections may be held __ longer than necessary. Fill the gap,Easy,,Evaluation-Android,b.open,a.closed,b.open,c.partially open,d.ppartially closed
+361,What the disconnect method of HTTP connection might return?,Easy,,Evaluation-Android,a.socket,a.socket,b.JSON array,c.Unicode Character array,d.NSMUtableString
+362,What type of compression is requested by the HttpURLConnection to the servers?,Medium,,Evaluation-Android,d.gzip,a.gasip,b.zip,c.rar,d.gzip
+363,Which method of HttpURLConnection is used for data decompression?,Medium,,Evaluation-Android,a.getInputStream,a.getInputStream,b.getOutputStream,c.getInput,d.None
+364,How Gzip compression can be disabled?,Medium,,Evaluation-Android,a.acceptable encodings in header,a.acceptable encodings in header,b.acceptable stream,c.special encodings at header,d.none
+365,What getInputStream returns when the string is exhausted?,Hard,,Evaluation-Android,b.-1,a.0,b.-1,c.3,d.1
+366,Which method returns the number of bytes transferred?,Medium,,Evaluation-Android,b.UIImage,a.getLength,b.length,c.contentLength,d.getContentLength
+367,Which method tests connection redirection?,Medium,,Evaluation-Android,a.getURL,a.getURL,b.getHttp,cURI,d.getURI
+368,Which method triggers the receiving of response headers?,Hard,,Evaluation-Android,c.both a & b,a.getHeaderFields,b.getInputStream,c.both a & b,d.none
+369,Which class includes all extensible cookie manager ?,Expert,,Evaluation-Android,b.HttpURLConnection,a.HttpURL,b.HttpURLConnection,c.HttpHeader,d.none
+370,Where the default cookie manager keeps all the  accepted cookies?,Medium,,Evaluation-Android,d.memory,a.server,b.file,c.cache,d.memory
+371,What the cookies must have set to be included in headers?,Medium,,Evaluation-Android,d.both a & b,a.domain properties,b.path properties,c.server properties,d.both a & b
+372,What is the cookie version should be set for compatibility with most servers?,Medium,,Evaluation-Android,b.0,a.11,b.0,c.1,d.-1
+373,Which method is used by HttpURLConnection by default?,Medium,,Evaluation-Android,a.GET,a.GET,b.POST,c.RETURN,d.None
+374,Which method causes the HttpURLConnection to use POST method ?,Hard,,Evaluation-Android,c.setDoOutput,a.setDO,b.setOutput,c.setDoOutput,d.set
+375,Which method is used to use a proxy?,Medium,,Evaluation-Android,a.URL.openConnection(Proxy),a.URL.openConnection(Proxy),b.URL.Connection(Proxy),c.URL.open(Proxy),d.URL.(Proxy)
+376,Which version of android includes a response cache?,Medium,,Evaluation-Android,c.Android 4,a.Android 1,b.Android 2,c.Android 4,d.Android 3.2
+377,"With what type of servers, new instances of cookies work?",Hard,,Evaluation-Android,a.that support RFC 2965 cookies,a.that support RFC 2965 cookies,b.that support RFC 2695 cookies,c.that support RFC 2665 cookies,d.both a &b
+378,What should be Implemented to define a custom cookie store?,Hard,,Evaluation-Android,d.CookieStore,a.store,b.cookieServer,c.cookieDepot,d.CookieStore
+379,Which one is a HTTP method?,Medium,,Evaluation-Android,d.all of three,a.GET,b.DELETE,c.TRACE,d.all of three
+380,Which one is not a HTTP method?,Medium,,Evaluation-Android,d.TAIL,a.HEAD,b.DELETE,c.TRACE,d.TAIL
+381,In array handling of JSON streams which method should be called first?,Hard,,Evaluation-Android,a.beginArray,a.beginArray,b.startArray,c.readArray,d.array
+382,In array handling of JSON streams which method should be called to read the closing bracket?,Hard,,Evaluation-Android,a.endArray().,a.endArray().,b.finishArray().,c.end().,d.Array
+383,In object handling of JSON streams which method should be called first?,Hard,,Evaluation-Android,c.beginObject,a.begin,b.startObject,c.beginObject,d.object
+384,In object handling of JSON streams which method should be called to read the closing bracket?,Hard,,Evaluation-Android,d.endObject(),a.end().,b.finishObject.,c.endObj().,d.endObject()
+385,Which method is common in both array handling and object handling of JSON streams? ,Medium,,Evaluation-Android,d.hasNext,a.beginArray,b.beginObject,c.endObject,d.hasNext
+386,"When an unknown name is encountered, what strict parsers should do?",Hard,,Evaluation-Android,b.Fail,a.Continue,b.Fail,c.Pass,d.None
+387,Which method checks if a value is null?,Easy,,Evaluation-Android,a.peek,a.peek,b.nullFinder,c.read,d.hasNext
+388,Which method consumes null literals?,Easy,,Evaluation-Android,c.nextNull,a.nextPeek,b.peek,c.nextNull,d.none
+389,Which method sorks alike nextNull?,Medium,,Evaluation-Android,b.skipValue,a.getNull,b.skipValue,c.nextValue,d. getNext
+390,How JSON reader reads numeric values?,Expert,,Evaluation-Android,c.both a & b,a.usual way,b.as string,c.both a & b,d. as structure
+391,"In which way , JSON reader permits to read string values?",Expert,,Evaluation-Android,a.as numbers,a.as numbers,b.as array,c.as structure,d.none
+392,Which method works to read next element from JSON array?,Hard,,Evaluation-Android,c.both a & b,a.nextInt,b.nextString,c.both a & b,d.none
+393,"To minimize loss, how large numeric values should be written in JSON?",Medium,,Evaluation-Android,a. as string,a. as string,b.as array,c.as it is,d.none
+394,"To maintain precision, how large numeric values should be read in JSON?",Medium,,Evaluation-Android,a. as string,a. as string,b.as array,c.as structure,d.as ponter
+395,How many JSON streams a JSON reader should read?,Medium,,Evaluation-Android,b.single JSON stream,a.double stream,b.single JSON stream,c.mixed data stream,d.null stream
+396,JSON reader is __. Fill the gap,Easy,,Evaluation-Android,c.not threadsafe,a.thread vulnurable,b. thread safe,c.not threadsafe,d.risky
+397,Which one helps us to perform background tasks without altering threads?,Medium,,Evaluation-Android,d.AsyncTask,a.resyncTask,b.threadTask,c.syncTask,d.AsyncTask
+398,Which method is invoked on Uithread before any task is executed?,Medium,,Evaluation-Android,a.onPreExecute(),a.onPreExecute(),b.onExecute(),c.onReExecute(),d.onPriExecute()
+399,How many kinds of parameters are there for Async Task?,Medium,,Evaluation-Android,b.3,a.2,b.3,c.4,d.5
+400,"What is the ""Params"" parameter type of Async Task?",Medium,,Evaluation-Android,c.string,a.array,b.integer,c.string,d.structure
+401,"What is the ""Progress"" parameter type of Async Task?",Medium,,Evaluation-Android,d.void,a.array,b.integer,c.string,d.void
+402,"What is the ""Result"" parameter type of Async Task?",Medium,,Evaluation-Android,a.Bitmap,a.Bitmap,b.HashMap,c.String,d.Void
+403,Which method downloads content in Async Task?,Easy,,Evaluation-Android,c.doInBackground(),a.onProgressUpdate(),b.publishProgress(),c.doInBackground(),d.Progress()
+404,Which method updates the percent progress in Async Task?,Hard,,Evaluation-Android,a.onProgressUpdate(),a.onProgressUpdate(),b.publishProgress(),c.doInBackground(),d.Progress()
+405,Which method computes the total number of bytes in Async Task?,Easy,,Evaluation-Android,c.doInBackground(),a.onProgressUpdate(),b.publishProgress(),c.doInBackground(),d.Progress()
+406,Who is responsible for handling messages and runables?,Medium,,Evaluation-Android,b.handler,a.thread,b.handler,c.compiler,d.operating system
+407,"What the ""@Path"" annotation in retrofit denotes for?",Medium,,Evaluation-Android,a.variable substitution for the API endpoint,a.variable substitution for the API endpoint,b.variable path for the API endpoint,c.variable for the API endpoint,d.path substitution for the API endpoint
+408,"What the ""@Query"" annotation in retrofit denotes for?",Medium,,Evaluation-Android,a.specifies the query key name,a.specifies the query key name,b.specifies the query name,c.specifies the key name,d.specifies the  name
+409,"What the ""@Body"" annotation in retrofit denotes for?",Medium,,Evaluation-Android,c.payload for the POST call,a.payload for  call,b.payload for the GET call,c.payload for the POST call,d.payload for the POST 
+410,Headers can be added to a request using an Interceptor,Medium,,Evaluation-Android,d.Interceptor,a.Inceptor,b.Interruptor,c.Interpretor,d.Interceptor
+411,Which of the following is not an extra field in android email?,Medium,,Evaluation-Android,d.EXTRA_BODY,a.EXTRA_TITLE,b.EXTRA_TEXT,c.EXTRA_SUBJECT,d.EXTRA_BODY
+412,What is SQLite?,Easy,1,Android,"c) It is an in-process which is a Zero configured, self-contained and serverless",a) It is an automatically integrated with cloud service,"
+b) It is a temporary file and then replacing the current document
+","c) It is an in-process which is a Zero configured, self-contained and serverless","d) It is a library that implements a lightweight embedded relational 
+Database
+"
+413,What is the meaning of Self Contained?,Medium,1,Android,d) No external dependencies,a) Self Dependencies,b) External dependcies,c) Self motivation,d) No external dependencies
+414,What is SQLite transaction?,Hard,1,Android,b) ACID compliant,a) UNIX process,b) ACID compliant,c) LINUX process,d) None .
+415,SQLite is written in,Expert,1,Android,c) ANSI C,a) C++,b) JAVA,c) ANSI C,d) PHP
+416,What does mean of DDL?,Hard,1,Android,d) Data Definition Language,a) Data Decline Language,b) Data Distribution Language,c) Data Transfer of Distributing Language,d) Data Definition Language
+417,What is the command of DDL?,Medium,1,Android,b) ALTER,a)INSERT,b) ALTER,c) SELECT,d) None
+418,What is SQLiteManager?,Easy,1,Android,a) a database manager for SQLite database,a) a database manager for SQLite database,b) a database manager for SQL ,c) It is control the all documents of database,d) No one.
+419,What does the mean Of DQL?,Easy,1,Android,a)Data Query Language,a)Data Query Language,b) Data Qualification Language,c) Data Manipulate Language,d)none
+420,What is the command for DQL?,Expert,1,Android,d) SELECT,a) UPDATE,b) DELETE,c) VIEW,d) SELECT
+421,Which of the following command is “DROP”?,Hard,1,Android,b) DDL,a) DQL,b)DDL,c) DML,d)none
+422,Which of the following meaning is DML?,Medium,1,Android,b) Data Manipulation Language ,a) Data Manipulate Language,b)Data Manipulation Language ,c) Data Device Manipulation Language,d) Data Magnification language.
+423," <standard_prefix>://<authority>/<data_path>/<id>
+What you will write in place of <standard_prefix>?
+",Hard,1,Android,a) Content,a) Content,b) Object,c) ContentProvider,d) No one.
+424," Choose the correct option according to the given option.
+Statement 1: A content provider behaves very much like a database — you can query it, edit its content, as well as add or delete content.
+
+Statement 2: Content providers let you centralize content in one place and have many different applications access it as needed.
+
+Statement 3: A content provider does not provide the facility to centralize content.
+
+",Hard,1,Android,c) Option 1and 2 is correct.,a) Option 1 is correct.,b) Option 2 is correct.,c) Option 1and 2 is correct.,d) Option 2 and 3 is correct.
+425,Which of the following is the meaning of “CRUD”?,Expert,1,android,"b) create, retrieve, update, and delete","a) create, retrieve, update, and drop","b) create, retrieve, update, and delete","c) create, return, unite, and delete",d)none
+426," If you want to share the data from one application to other applications, 
+which of the following you will use?
+",Easy,1,Android,c) Content Provider,a) SQLiteDatabases,b) Internal Storage,c) Content Provider,d) None of the above
+427,To share data across packages in Android which one you will prefer?,Hard,1,Android,b) Content Provider,a) Shared Preference,b) Content Provider,c) Data provider,d) None of the above
+428,Identifies data in a provider-,Medium,1,Android,c) Content URI,a) Content provider,b) Data Provider,c) Content URI,d) Shared Preference
+429,Which of the following statement is True?,Easy,1,Android,c) a and b is true,a) TheContentResolver can then dispatch the query arguments to the correct provider.,b) The ContentProvider uses the path part of the content URI to choose the table to access.,c) a and b is true,d)none
+430,For Creating your own content provider which class you will prefer?,Medium,1,Android,b) Content Provider,a) Content,"
+b) Content Provider",c) Object,d) None of the above
+431,How many frequency of Applet?,Medium,1,Android,b) 225,a) 220,b) 225,c) 250,d) 255
+432,What is the uses of cursor loader?,Medium,1,Android,d) A subclass of AsyncTask Loader for accessing ContentProvider Data,a) A callback interface you must implement,b) The base class for all loaders,c) An implementation that uses an AsyncTask to do its work,d) A subclass of AsyncTask Loader for accessing ContentProvider Data
+433,What is/are storage option available in android?,Expert,1,Android,d) All of the above,a) SharedPreference,b) SQLiteDatabase,c) ContentProvider,d) All of the above
+434,What is Loader?,Hard,1,Android,a) Loading data a content provider or other data source for display in an FragmentActivity or Fragment,a) Loading data a content provider or other data source for display in an FragmentActivity or Fragment,b) Changing and encapsulating a value,c) Converting a group of related object that can be stored and transferred,d) None of the above
+435,Why does loader run on separate thread?,Easy,1,Android,b) To prevent janky or unresponsive UI,a) To prevent from a dangerous software,b) To prevent janky or unresponsive UI,c) Option b is false,d) Option a is true
+436,How does the Loaders simplify a thread management?,Hard,1,Android,b) By providing callback methods when event occur,a) By providing receiver methods when event occur,b) By providing callback methods when event occur,c) By providing calling process when event occur,d) All of the above
+437,What does we do to prevent duplicate queries?,hard,1,Android,b) Loaders persist to prevent janky or unresponsive UI,a) Loaders persist a callback method,b) Loaders persist to prevent janky or unresponsive UI,c) Loaders persist and cache result across configuration changes,d) Which of the following
+438,Which of the following statement is true?,Expert,1,Android,a) Loading data a content provider or other data source for display in an FragmentActivity or Fragment,a) Loading data a content provider or other data source for display in an FragmentActivity or Fragment,b) Loaders can implement an observer to mon,c) Option 1 is false,b) Option 2 is false
+439,Characteristics of the Loaders?,Easy,1,Android,d) All of the above,a) They are available to every Activity and Fragment,b) They provide asynchronous loading of data,c) They monitor the source of their data and deliver new result when the content changes,d) All of the above
+440,What is cloud storage?,easy,1,Android,"a) A powerful, simple and cost-effective object storage service built for Google scale.","a) A powerful, simple and cost-effective object storage service built for Google scale.",b) It is a monitor which is the source of their data and deliver the content changes,c) Provides a useful storage buffer which that contains of a file may be read and write,d) None of the mentioned
+441,What touse Google security to file uploads and downloads for your Firebase apps?,Medium,1,Android,b)  Firebase SDKs ,a) Security key,b)  Firebase SDKs ,c) Software ,d) a and b
+442,"What will you use to store images, audio, video, or other user-generated content?",Medium,1,Android,a) SDK,a) SDK,b) Storage device,c) Local storage,d) All of the above
+443,What will use to access the same files on the server?,Midium,1,Android,b) Google cloud storage,a) Local storage,b) Google cloud storage,c) Sandbox,d) Local Driver
+444,What is SDK?,Easy,1,Android,c) Software Development kit,a) Software Development key,b) Software Development kitten,c) Software Development kit,d) Software Development ket
+445,The Firebase Real-time database is a-,Hard,1,android,c) Cloud hosted database,a) SDK,b) Cloud storage,c) Cloud hosted database,d) b and c
+446,What is Fairbase Real-time database?,Easy,1,Android,c) Is synced across all clients in realtime and remains available when your app goes offline,"a) A powerful , simple and cost –effective object storage service built for Google scale
+b) A content provider or other data source for ","b) A content provider or other data source for display in an Fragment Activity or fragment
+c) Is synced across all clients in realtime and ",c) Is synced across all clients in realtime and remains available when your app goes offline,d) Is synced across all clients in realtime and remains available when your app goes offline and online
+447,How we can store firebase?,Expert,1,Android,d) JSON,a) DDL,b) SSD,c) SDK,d) JSON
+448,The Realtime Database provides ,Medium,1,Android,a) Flexible,a) Flexible,b) Hard,c) Simple,d) None
+449,The Realtime Database example is,Easy,1,Android,c) NoSQL,a) Dynamic database,b) MySql,c) NoSQL,d) Oracle
+450,“JSON” stands for ,Expert,1,Android,a) JavaScript Object Notation,a) JavaScript Object Notation,b) JavaScript Oriented Notation,c) Option 1 is false,d) a and b is true
+451,Firebase Authentication provides-,Medium,1,Android,"a) Backend services, easy to use SDKs and readymade UI liberies to authenticate ","a) Backend services, easy to use SDKs and readymade UI liberies to authenticate users to your app",b) An implementation that uses an Asynctask to do its work,c) that makes sign in easy for your users using their Google account,d) None of the above
+452,FCM stands for,Hard,1,Android,c) Firebase Cloud Messaging,a) Firebase Control Machine,b) Firebase Cloud Machine,c) Firebase Cloud Messaging,d) Fairbase Cloud Machine
+453,What is FCM?,Hard,1,Android,d) is a cross –platform messaging solution that lets you reliably deliver messages at no cost,a) a free app measurement solution that provides insight on app usage,b) is  making sign in easy for your users using their google account,c) is a monetize your mobile app through in-app advertising,d) is a cross –platform messaging solution that lets you reliably deliver messages at no cost
+454,Which one is use of sending notification messages to drive user re-engagement and retention?,Easy,1,Android,c) FCM,a) FRM,b) FMC,c) FCM,d) JSON
+455,What is Google Analytics for Firebase?,Medium,1,Android,a) Is a free app measurement solution that provides insight on app usage and user engagement.,a) Is a free app measurement solution that provides insight on app usage and user engagement.,"b) Is a trusted environment such as Cloud Functions for Firebase or an app server on which to build, target, and send messages.","c) Is  an iOS, Android, or web (JavaScript) client app that receives messages",d)none
+456,Which of the following statement is true?,Easy,1,Android,"a) At the heart of Firebase is Google Analytics for Firebase, a free and unlimited analytics solution","a) At the heart of Firebase is Google Analytics for Firebase, a free and unlimited analytics solution.",b) The Loader API lets you load data from a content provider or other data source for display in an FragmentActivity or Fragment.,"c) Data is synced across all clients in realtime, and remains available when your app goes offline.",d) All of the above
+457,How many distinct events that you can define using the Firebase SDK?,Easy,1,Android,c) 500 events,a) 300 events,b) 400 events,c) 500 events,d) 600 events
+458,How does analytics work?,Hard,1,Android,c) helps you understand how people use your iOS or Android app.,,b) Encapsulating the values,c) helps you understand how people use your iOS or Android app.,d) None of the above
+459,How many types of Google Analytics for firebase?,Medium,1,Android,a) 2,a) 2,b) 3,c) 4,d) 5
+460,Analytics reports help-,Easy,1,Android,a) Understand user behavior and view live usage data with real time reporting. ,a) Understand user behavior and view live usage data with real time reporting,b) Understand clients problem,c) Identifying the problem easily,d) a and b is both
+461,What is AdMob?,Hard,1,Android,c) Is a google ‘s platform which is  moving on side from another side,a) Is  Google’s advertising platform for promoting and monetizing mobile applications,b) Is a free app measurement solution provides insight apps usages.,c) Is a google ‘s platform which is  moving on side from another side,d) C is true
+462,How AdMob can be displayed?,Expert,1,Android,"d) as banner ads, interstitial ads, video ads, or native ads","a) As audio, picture and design etc","b) Movie, maps, poems etc","c) Audio, maps, poems, movie, banner ads etc","d) as banner ads, interstitial ads, video ads, or native ads"
+463,Admob uses –,Medium,1,Android,c) Google Mobile Ads SDK.,a) Mobile ads,b) SDK,c) Google Mobile Ads SDK.,d) Video ads
+464,"Which helps app developers gain insights about their users, drive more in-app purchases, and maximize ad revenue.",Medium,1,Android,a) Google Mobile  Ads SDK,a) Google Mobile  Ads SDK,b) DDL,c) DML,d) Provider
+465,Apps can import the Google Mobile Ads SDK with a Gradle dependency that points to_______________ repository,Expert,1,Android,b) Google's Maven,a) Google Mobile Ads SDK,b) Google's Maven,b) Google's Maven,d) None
+466,Google Mobile Ads SDK support across-,Easy,1,Android,d) All of the above,a) Android,b) Ios,c) Game engine,d) All of the above
+467,Which is a technical discussion regarding the Android Google Mobile Ads SDK in google play service,Easy,1,Android,a) Android,Android,b) Ios,c) Game engine,d) All of the above
+468,What is Unity and Cocos2d-x?,Easy,1,Android,c) Game engine,a) Ios,b) Android,c) Game engine,d) Google mobile ads sdk
+469,"Once installed on a device, each Android application lives in_________",Medium,1,Android,c) security sandbox,a) device memory,b) external memory,c) security sandbox,d) None of the above
+470,What are the Direct subclasses of Activity?,Medium,1,Android,d) All of the above,a) Account Authenticator Activity,b) Activity Group,c) Fragment Activity,d) All of the above
+471,When content Provider would be activated?,Medium,1,Android,c)Using ContentResolver,a)Using Intent,b)Using SQLite,c)Using Content Resolver,d)none of the above
+472,What is the function of AdMob?,Easy,1,Android,a)Monetizing mobile app,a)Monetizing mobile app,b) Purchasing mobile app,c)Modifying mobile app,d)Creating mobile app
+473,How Ads can be displayed using AdMob?,Expert,1,Android,d)All of the above,a)Banner Ads                                                    b)    Video Ads                     ,b) Video Ads,c)Native Ads,d)All of the above
+474,What is the unique identifier of AdMob Account?,Hard,1,Android,a) Ad Unit Ids,a) Ad Unit Ids,b) Mob Unit Ids,c)Native Ids,d) None of the above
+475,What does AdMob use?,Easy,1,Android,b)Google Mobile Ads SDK,a)Windows Mobile Ads SDK,b)Google Mobile Ads SDK,c)Both a &b,d) None of the above
+476,How Google Mobile Ads SDK helps app developers?,Expert,1,Android,d)All of the above,a)Gaining insight about their users,b)Driving more in app purchase,c)Maximizing &Revenue,d)All of the above
+477,What type of information Mobile Ads SDK collect?,Hard,1,Android,c)Both a &b,a)Device information,b)App purchase information,c)Both a &b,d)None of the above
+478,How Google Mobile Ads SDK helps app developers?,Expert,1,Android,d)All of the above,a)Gaining insight about their users,b)Driving more in app purchase,c)Maximizing &Revenue,d)All of the above
+479,Which uses the path part of the content uri developers?,Medium,1,Android,d)Content Provider,a)Content Resolver,b)Content URI,c)Data Dictionary,d)Content Provider
+480,What does Content Uri identifies?,Easy,1,Android,a)Data,a)Data,b)Path,c)Both a &b,d) None of the above
+481,Why projection is used?,Easy,1,Android,b)Retriving each row,a)Retriving each column,b)Retriving each row,c)Selecting rows,d)Selecting columns
+482,What does selection command specifies?,Easy,1,Android,d)Selecting rows,a)Retriving rows ,b)Retriving columns,c)Selecting columns,d)Selecting rows
+483,What type of dependency is required to import an android app?,Easy,1,Android,b)Gradle Dependency,a)App Building Dependency,b)Gradle Dependency,c)Both a &b,d) None of the above
+484,What does google analytics provide for firebase?,Easy,1,Android,c)User engagement,a)Driving more app in purchase,b)Maximizing and Revenue,c)User engagement,d)Retriving information
+485,What is google analytics?,Easy,1,Android,a)Free App Measurement Solution,a)Free App Measurement Solution,a)Paid App Measurement Solution,c)Both a &b,d) None of the above
+486,How many features provide when you use the Firebase SDK?,Medium,1,Android,a)About 500,a)About 700,a)About 300,a)About 400,a)About 500
+487,Which of the following features is integrated with Google Analytics?,Medium,1,Android,c) Firebase,a)Mongo DB,b)MS SQL Server,c)Firebase,d) None of the above
+488,How google analytics help you to make your app better?,Expert,1,Android,d)All of the above,a)Interaction of the user,b)Informing decision about app marketing,c)Optimizing performance,d)All of the above
+489,What does FCM stands for?,Easy,1,Android,c)Firebase Cloud Messaging ,a)Firebase Clone Messaging  ,b)Firebase Cloud Management,c)Firebase Cloud Messaging ,d) None of the above
+490,What does Firebase Authentication provide?,Hard,1,Android,d) Both b & c,a)Frontend Services,b)Backend Services,c)Readymade UI libraries ,d) Both b & c
+491,What does Firebase Authentication Supports?,Hard,1,Android,d) Both a &b,a)Password,b)Phone Number,c)    ID Card,d) Both a &b
+492,Which IDE is used for Android development?,Easy,1,Evaluation-Android,d) a & b,a) Eclipse,b) Andoroid Studio,c)  Netbeans,d) a & b
+493,What is the name of Android version 8?,Easy,1,Evaluation-Android,b) Oreo,a) Nougat,b) Oreo,c) Marshmallow,d) Kitkat
+494,What is the API level of Oreo?,Easy ,1,Evaluation-Android,a) 26,a) 26,b) 22,c) 25,d) 21
+495,Which level allows high level interaction with andoird system?,Medium,1,Evaluation-Android,c)  Application Framework,a) Runtime,b) Libraries,c)  Application Framework,d) None of the above
+496,Which language is used for native Android development?,Easy ,1,Evaluation-Android,b) Java,a) C#,b) Java,"c) HTML, Javascript",d) PhoneGap
+497,Which one is a OOP feature?,Easy ,1,Evaluation-Android,d) All of the above,a) Abstraction,b) Polymorphism,c) Inheritence,d) All of the above
+498,What is Excapsulation?,Easy ,1,Evaluation-Android,a) Everything inside an unit,a) Everything inside an unit,b) Inherit all criteria from parent,c) Take any relevant form,d) None of the above
+499,What is abstraction?,Easy ,1,Evaluation-Android,c) Hiding internal details,a) Everything inside an unit,b) Inherit all criteria from parent,c) Hiding internal details,d) All of the above
+500,What is polymorphism?,Easy ,1,Evaluation-Android,b) Object behaving differently in different situaltions,a) Everything inside an unit,b) Object behaving differently in different situaltions,c) Hiding internal details,d) Inherit all criteria from parent
+501,What is aggregation?,Medium,1,Evaluation-Android,c) Both,a) Association,b) HAS-A relation,c) Both,d) None of the above
+502,Which is the type of data-types?,Easy ,1,Evaluation-Android,c) Both,a) Primitive,b) Non-primitive,c) Both,d) None of the above
+503,Which is a transfer statement?,Medium,1,Evaluation-Android,a) continue,a) continue,b) do-while,c) if-else,d) switch
+504,Which is a selection statement?,Medium,1,Evaluation-Android,d) b & c,a) continue,b) switch,c) if-else,d) b & c
+505,What is the type of double?,Easy ,1,Evaluation-Android,c) Primitive,a) Non-primitive,b) Array,c) Primitive,d) None of the above
+506,Which component belongs to Android architecture?,Medium,1,Evaluation-Android,d) All of the above,a) Intent,b) Services,c) Notifications,d) All of the above
+507,Which notification style does Android support?,Easy ,1,Evaluation-Android,d) All of the above,a) Light,b) LED,c) Sound,d) All of the above
+508,What is An android manifest file?,Easy ,1,Evaluation-Android,a) Information the system must have before it can run any of the app code,a) Information the system must have before it can run any of the app code,b) Information need to show to the user interface,c) Information that need to be given to OS,d) None of the above
+509,What does ADT stands for?,Easy ,1,Evaluation-Android,c) Android development toolkit,a) Android description toolkit,b) Analysis of detailed telephone,c) Android development toolkit,d) Android developers plot
+510,Which tool can be found inside ADT?,Hard,1,Evaluation-Android,d) All of the above,a) DDMS,b) AAPT,c) ADB,d) All of the above
+511,What is toast notification?,Easy ,1,Evaluation-Android,b) Pop-up notification,a) Blinking LED,b) Pop-up notification,c) Alarm,d) None of the above
+512,What is ADB?,Medium,1,Evaluation-Android,a) Link between emulator and IDE,a) Link between emulator and IDE,b) Link between emulator and debugger,c) IDE cleaner,d) Link between logcat and source code
+513,What is shared preferences in android?,Medium,1,Evaluation-Android,d) b & c,a) Communication between developers,b) Simplest mechanism to store the data,c) Saving data in XML,d) b & c
+514,What is the name of the Andoid core?,Easy ,1,Evaluation-Android,a) Linux kernel,a) Linux kernel,b) C language,c) Machintosh,d) None of the above
+515,Where layouts are placed in android?,Medium,1,Evaluation-Android,b) Layout folder with XML files,a) Properties folder,b) Layout folder with XML files,c) Layout folder with JSON file,d) Online
+516,Which one is an Android exception?,Easy ,1,Evaluation-Android,c) All of the above,a) InflateException,b) Surface.OutOfResourceException,c) All of the above,d) None of the above
+517,Which one is the storage available in android?,Easy ,1,Evaluation-Android,d) All of the above,a) Shared preferences,Sqlite,c)  Shared preferences,d) All of the above
+518,What is singleton class in android?,Medium,1,Evaluation-Android,"b) A class which can create only an object, that object can be share able to all other classes.",a) User Interface,"b) A class which can create only an object, that object can be share able to all other classes.","c) A piece of activity, if you want to do turn your application 360 degrees, you can do this by fragment",d) None of the above
+519,What is Android ?,Easy ,1,Evaluation-Android,c) Both,a) OS,b) Framework,c) Both,d) None of the above
+520,Which kernal is used in android?,Easy ,1,Evaluation-Android,b) Linux,a) Java,b) Linux,c) Kotilin,d) None of the above
+521,What is Android activity?,Easy ,1,Evaluation-Android,b) GUI component,a) Networking component,b) GUI component,c) Web content,d) Radio layer component
+522,What is the category of Android GUI element?,Medium,1,Evaluation-Android,d) All of the above,a) Activities,b) View ,c) ViewGroups,d) All of the above
+523,Which files describe GUI layouts?,Easy ,1,Evaluation-Android,c) XML,a) Java,b) Javascript,c) XML,d) manifest
+524,How many layers are there in Android architecture?,Easy ,1,Evaluation-Android,a) 4,a) 4,b) 3,c) 2,d) 6
+525,Which android layer handles keyboard driver?,Hard,1,Evaluation-Android,c) Linux Kernal,a) Application,b) Libraries,c) Linux Kernal,d) Application framework
+526,Who originally developed Android?,Medium,1,Evaluation-Android,d) All of the above,a) Rich Miner,b) Andy Rubin,c) Nick Sears ,d) All of the above
+527,Who launched first Android Phone?,Medium,1,Evaluation-Android,b) HTC,a) Samsung,b) HTC,c) Motorola,d) Nokia
+528,What is widgets?,Easy ,1,Evaluation-Android,a) GUI component that can be run outside an activity,a) GUI component that can be run outside an activity,b) Home screen controller,c) GUI component to process background data,d) None of the above
+529,What is Android Services?,Easy,1,Evaluation-Android,a) Background processes,a) Background processes,b) Notification controller,c) Reminder,d) Networking component
+530,When Google bought Android?,Easy,1,Evaluation-Android,a) 2005,a) 2005,b) 2006,c) 2007,d) 2008
+531,Which one of these is used to make a Toast message?,Medium,1,Evaluation-Android,a) Toast.makeText,a) Toast.makeText,b) Messagebox.show,c) Notification.builder,d) None of the above
+532,Which one of these is an Android feature?,Easy,1,Evaluation-Android,c) Both,a) Screen Capture,b) Notification,c) Both,d) None of the above
+533,Where to put permissions for special purposes?,Easy,1,Evaluation-Android,b) Manifest,a) Build xml,b) Manifest,c)  GUI xml,d) Java files
+534,Which class is required to get the location?,Medium,1,Evaluation-Android,b) LocationManager,a) GPSTracker,b) LocationManager,c) GlobalLocation,d) Coordinates
+535,Which devices support Android?,Easy,1,Evaluation-Android,d) All of the above,a) Phone,b) Laptop,c) TV,d) All of the above
+536,What is AVD?,Easy,1,Evaluation-Android,b) Android virtual device,a) Android virtual development,b) Android virtual device,c) Android verbal development,d) android variety device
+537,What is drawable folder in android?,Easy,1,Evaluation-Android,b) GUI components,a) Startup components,b) GUI components,c) Networking components,d) GPS components
+538,What is a ContentProvider?,Hard,1,Evaluation-Android,a) Access to structured data,a) Access to structured data,b) Media content,c) Working with file,d) Database
+539,What type of gestures do Android support?,Easy,1,Evaluation-Android,d) All of the above,a) Pinch,b) Scroll,c) Long press,d) All of the above
+540,Which listener to use for detecting Gesture?,Medium,1,Evaluation-Android,a) GestureDetector.SimpleOnGestureListener,a) GestureDetector.SimpleOnGestureListener,b) GestureDetector.GestureListener,c) GestureDetector.PinchGestureListener,d) All of the above
+541,What is the use of broadcast receivers in Android?,Medium,1,Evaluation-Android,a) Allows you to register for system or application events,a) Allows you to register for system or application events,b) Gesture detection,c) GPS location,d) None of the above
+542,When to use putExtra()?,Easy,1,Evaluation-Android,c) To add extra information into an intent,a) To add extra parameter,b) To call various methods at the same time,c) To add extra information into an intent,d) To add an event
+543,What is the name of first Android version?,Easy,1,Evaluation-Android,b) Aestro,a) Cupcake,b) Aestro,c) Blender,d) Donut
+544,Which one of these is a feature of android?,Easy,1,Evaluation-Android,d) All of the above,a) Platform independent,b) Open source,c) Dalvik Virtual Machine,d) All of the above
+545,What are the life cycle methods of android activity?,Easy,1,Evaluation-Android,d) a & b,a) onCreate,b) onResume,c) None,d) a & b
+546,Explain the use of 'bundle' in android?,Medium,1,Evaluation-Android,a) Pass the required data to various subfolders,a) Pass the required data to various subfolders,b) Build the core,c) Push notifications,d) None of the above
+547,Can the bytecode be written in java be run on android?,Easy,1,Evaluation-Android,b) No,a) Yes,b) No,c) With extra libraries,d) With other languages
+548,What is the implicit intent in android?,Easy,1,Evaluation-Android,a) Invoke the system components.,a) Invoke the system components.,b) Invoke the activity class.,c) Push notifications,d) Reminder
+549,What is AAPT?,Medium,1,Evaluation-Android,a) Android asset packaging tool,a) Android asset packaging tool,b) Android activity package tool,c) Android activity provider transfer,d) None of the above
+550,What is NDK?,Medium,1,Evaluation-Android,d) Neative Development Kit,a) National Developed Kernal,b) National Development Kit,c) Native Development Kernal,d) Neative Development Kit
+551,Which class is required for multithreading?,Medium,1,Evaluation-Android,b) AsyncTask,a) TreadCreator,b) AsyncTask,c) TaskClass,d) AsyncCreator
+552,What is the functionality of LinearLayout?,Hard,1,Evaluation-Android,a) Align views one by one (vertically/ horizontally),a) Align views one by one (vertically/ horizontally),b) Relation of views from its parents and other views,c) Uses relations to position and size widgets,"d) Load child one above another, like cards inside a frame"
+553,What is the functionality of RelativeLayout ?,Hard,1,Evaluation-Android,b) Relation of views from its parents and other views,a) Align views one by one (vertically/ horizontally),b) Relation of views from its parents and other views,c) Uses relations to position and size widgets,"d) Load child one above another, like cards inside a frame"
+554,What is the functionality of ConstraintLayout ?,Hard,1,Evaluation-Android,c) Uses relations to position and size widgets,a) Align views one by one (vertically/ horizontally),b) Relation of views from its parents and other views,c) Uses relations to position and size widgets,"d) Load child one above another, like cards inside a frame"
+555,What is the functionality of FrameLayout?,Hard,1,Evaluation-Android,"d) Load child one above another, like cards inside a frame",a) Align views one by one (vertically/ horizontally),b) Relation of views from its parents and other views,c) Uses relations to position and size widgets,"d) Load child one above another, like cards inside a frame"
+556,Which one is a depricated layout?,Hard,1,Evaluation-Android,d) Absolute,a) Linear,b) Relative,c) Frame,d) Absolute
+557,How to go back to previous activity?,Hard,1,Evaluation-Android,b) finish(),a) goBack(),b) finish(),c) stop(),d) None of the above
+558,What is a context in android ?,medium,1,Evaluation-Android,d) All of the above,a) It is an interface to store global information about an application,b) It is used to create new components.,"c) Android has two contexts, those are getContext() and getApplicationContext()",d) All of the above
+559,What is a base adapter in android?,Expert,1,Evaluation-Android,"a) Base Adapter is a common class for any adapter, which can we use for both ListView and spinner","a) Base Adapter is a common class for any adapter, which can we use for both ListView and spinner",b) A kind of adapter,c) Data storage space,d) None of the above.
+560,How to fix crash using log cat in android?,medium,1,Evaluation-Android,b)log cat contains the exception name along with the line number,a) Gmail,b)log cat contains the exception name along with the line number,c) Google Search,d) None of the above
+561,How many levels of securities are there in android?,Expert,1,Evaluation-Android,c) Java level security,a) App level security and kernel level security,b) Android level security,c) Java level security,d) none of the above
+562,What is the main difference between set and list in android?,Hard,1,Evaluation-Android,d) B & C,a) Both are same,b) Set can't contain duplicate values,c) List may contain duplicate values,d) B & C
+563,What is SQLite?,Easy,1,Evaluation-Android,b) Open source relational database,a) Open source networking API,b) Open source relational database,c) Open source GUI for cross platform development,d) All of the above
+564,What is ANR?,Hard,1,Evaluation-Android,c) Application not responding,a) Android news report,b) Application not recognized,c) Application not responding,d) None of the above
+565,Which one is a android state?,Easy,1,Evaluation-Android,d) All of the above,a) Foreground,b) Visible,c) Background,d) All of the above
+566,What role does Dalvik play in Android development?,Expert,1,Evaluation-Android,c) Virtual Machine,a) API,b) Services,c) Virtual Machine,d) Debugger
+567,Which method is used for garbage collection?,Medium,1,Evaluation-Android,a) System.gc(),a) system.gc(),b) Activity#garbage(),c) garbage(),d) gc()
+568,What is the functionality of MODE_WORLD_WRITEABLE in shared preferences?,Hard,1,Evaluation-Android,b) Allow other application to write the preferences in my application,a) Application can write in resources of another,b) Allow other application to write the preferences in my application,c) Aone of the above,d) Database manipulation permission
+569,Which method to use for copying data into clipbord?,Expert,1,Evaluation-Android,a) ClipData ,a) ClipData ,b) GlobalMemory,c)  Clipbord,d) SharedPreferences
+570,What is the name of the AI inside Android?,Easy,1,Evaluation-Android,d) Google assistant,a) Siri,b) Home,c) Google secretary,d) Google assistant
+571,What is a Sticky Intent?,Expert,1,Evaluation-Android,c) broadcast from sendStickyBroadcast() method,a) Create widget,b) Create sticky note,c) broadcast from sendStickyBroadcast() method,d) push notifications
+572,Which one is the offcial language for Android?,,1,Evaluation-Android,All of the above,a) Python,b) Kotlin,c) Objective C,d) All of the above
+573,"Which one is the official integrated development environment (IDE) for Google's
+Android operating system?",,1,Evaluation-Android,Android Studio,a) Xcode,b) Android Office,c) Android Studio,d) Codeblocks
+574,Android studio is built in __________,,1,Evaluation-Android,JetBrains' IntelliJ IDEA,a) Brains' IntelliJ IDEA,b) Jet IDEA,c) Brains' IntelliJ IDEA,d) JetBrains' IntelliJ IDEA
+575,Android studion is a replacement for _______,,1,Evaluation-Android,Eclipse,a) Eclipse,b) Xcode,c) Visual Studio,d) Codeblocks
+576,Eclipse IDE provides ________________ controls.,,1,Evaluation-Android,hands-on,a) instant,b) software,c) Hands-on,d) None of the above
+577,Which windows version is suitable for android studio?,,1,Evaluation-Android,All of the above,a) Windows 7,b) Windows 8,c) Windows 10,d) All of the above
+578,Which windows version is suitable for android studio?,,1,Evaluation-Android,All of the above,a) Windows 7 32 bit,b) Windows 7 64 bit,c) Windows 10 64 bit,d) All of the above
+579,What is the minumum ram needed for Android studio in Windows?,,1,Evaluation-Android,3GB,a) 2GB,b) 3GB,c) 4GB,d) 8GB
+580,How much ram is recommended for Android studio in windows?,,1,Evaluation-Android,8GB,a) 2GB,b) 4GB,c) 8GB,d) 16GB
+581,How much ram is needed for Android emulator in windows?,,1,Evaluation-Android,1GB,a) 8GB,b) 4GB,c) 2GB,d) 1GB
+582,What is the minimum disk space needed for Android studio in  windows?,,1,Evaluation-Android,2GB,a) 2GB,b) 4GB,c) 8GB,d) 16GB
+583,How much disk space is recommended for Android studio in windows?,,1,Evaluation-Android,4GB,a) 4GB,b) 8GB,c) 16GB,d) 32GB
+584,Minimum screen resolution needed for Android studio in windows __________,,1,Evaluation-Android,1280*800,a) 1200*720,b) 720*1200,c) 1024*768,d) 1280*800
+585,,,1,Evaluation-Android,,,,,
+586,Which mac version is suitable for android studio?,,1,Evaluation-Android,All of the above,a) Mac OS X 10.10,b) Mac OS X 10.2,c) Mac OS X 10.2,d) All of the above
+587,,,1,Evaluation-Android,,,,,
+588,What is minumum ram needed for Android studio in mac?,,1,Evaluation-Android,3GB,a) 2GB,b) 3GB,c) 4GB,d) 8GB
+589,How much ram is recommended for Android studio in mac?,,1,Evaluation-Android,8GB,a) 2GB,b) 4GB,c) 8GB,d) 16GB
+590,How much ram is needed for Android emulator in mac?,,1,Evaluation-Android,1GB,a) 8GB,b) 4GB,c) 2GB,d) 1GB
+591,What is the minimum disk space need for Android studion in  mac?,,1,Evaluation-Android,2GB,a) 2GB,b) 4GB,c) 8GB,d) 16GB
+592,How much disk space is recommended for Android studio in mac?,,1,Evaluation-Android,4GB,a) 4GB,b) 8GB,c) 16GB,d) 32GB
+593,Minimum screen resolution needed for Android studio in mac is __________,,1,Evaluation-Android,1280*800,a) 1200*720,b) 720*1200,c) 1024*768,d) 1280*800
+594,,,1,Evaluation-Android,,,,,
+595,What is the minumum ram needed for Android studio in linux?,,1,Evaluation-Android,3GB,a) 2GB,b) 3GB,c) 4GB,d) 8GB
+596,How much ram is recommended for Android studio in linux?,,1,Evaluation-Android,8GB,a) 2GB,b) 4GB,c) 8GB,d) 16GB
+597,How much ram is needed for Android emulator in linux?,,1,Evaluation-Android,1GB,a) 8GB,b) 4GB,c) 2GB,d) 1GB
+598,What is the minimum disk space need for Android studion in  linux?,,1,Evaluation-Android,2GB,a) 2GB,b) 4GB,c) 8GB,d) 16GB
+599,How much disk space is recommended for Android studio in linux?,,1,Evaluation-Android,4GB,a) 4GB,b) 8GB,c) 16GB,d) 32GB
+600,Minimum screen resolution needed for Android studio in linux is  __________,,1,Evaluation-Android,1280*800,a) 1200*720,b) 720*1200,c) 1024*768,d) 1280*800
+601,Which GNU C Library version is suitable for android studio?,,1,Evaluation-Android,2.19,a) 2.16,b) 2.17,c) 2.18,d) 2.19
+602,Google Play App Store was previously called ___________,,1,Evaluation-Android,Android App Market,a) Android App Market,b) App Store,c) Play Store,d) Game Store
+603,To sign an application which one is needed?,,1,Evaluation-Android,Private key,a) Digital Signature,b) Priavte key,c) Android Pen,d) Signature
+604,Why is End User License Agreement (EULA) is needed?,,1,Evaluation-Android,All of the above,"a) to protect your
+person",b) to protect organization,c) to protect intellectual property,d) All of the above
+605,When you are finished preparing your application for release you will have a ___________ file,,1,Evaluation-Android,signed .apk file,a) signed .apk,b) Unsigned.apk,c) release.apk,d) final.apk
+606,How much money is needed to open an account in google play console?,,1,Evaluation-Android,$25 ,a) $10,b) $15,c) $20,d) $25
+607,Which one is a third party app store?,,1,Evaluation-Android,All of the above,a) Mobile9,b) 1Mobile Market,c) SlideME,d) All of the above
+608,________________ is the general process that makes your Android applications available to users.,,1,Evaluation-Android,Publishing,a) Signing,b) Removing,c) Oragnizing,d) Publishing
+609,Which one is the latest version of Android studio?,,1,Evaluation-Android,3.1.4,a) 3.1.2,b) 3.1.4,c) 3.1.5,d) 3.3
+610,Package of compiled Java codes with some other resources is called _________,,1,Evaluation-Android,apk,a) ide,b) jdk,c) jde,d) apk
+611,"In android studio, currently open file location can be shown by ________",,1,Evaluation-Android,navigation bar,a) navigation bar,b) tool bar,c) menu bar,d) editor tab
+612,"In android studio, callback that is called when activity interaction with user is started is",,1,Evaluation-Android,onResume,a) onStart,b) onStop,c) onResume,d) onDestroy
+613,One of operating systems that cannot be used for android application development is,,1,Evaluation-Android,contiki,a) windows,b) Mac OS X 10.2,c) linux,d) contiki
+614,One of the recent android versions is __________,,1,Evaluation-Android,pie,a) marshmallow,b) nougat,c) pie,d) oreo
+615,Required Java environment for development is called,,1,Evaluation-Android,jdk,a) jdk,b) dex,c) jvm,d) api
+616,"By default in android studio during app development, the file that holds information about the app's fundamental features and components is",,1,Evaluation-Android,AndroidManifest.xml,a) res/values,b) Build.gradle,c) res/layout,d) AndroidManifest.xml
+617,Underlying operating system for android is,,1,Evaluation-Android,Linux,a) Windows,b) Mac OS X 10.2,c) Linux,d) Contiki
+618,Android component that works like database is,,1,Evaluation-Android,Content Providers,a) Services,b) Activities,c) Broadcast Receivers,d) Content Providers
+619,"In android emulator mode, the left-hand side of smartphone area elements is called",,1,Evaluation-Android,palette,a) palette,b) widgets,c) design,d) button
+620,Android component that shows part of an activity on screen is called,,1,Evaluation-Android,fragment,a) intent,b) fragment,c) view,d) manifest
+621,"In android Studio, TODO tab is actually used for",,1,Evaluation-Android,comments,a) storage,b) comments,c) classes,d) function
+622,Android component that manages app's configuration file is called,,1,Evaluation-Android,manifest,a) fragment,b) view,c) intent,d) manifest
+623,Right way to write java comments is,,1,Evaluation-Android,//it is a comment,a) \it is a comment,b) //it is a comment,c) /it is a comment,d) it is a comment
+624,Required android tools for development is called,,1,Evaluation-Android,sdk,a) jdk,b) sdk,c) apk,d) ide
+625,"A part of android system, DVM is actually a",,1,Evaluation-Android,software,a) server,b) hardware,c) firmware,d) software
+626,Android is actually using whole bunch of,,1,Evaluation-Android,java code,a) python code,b) c code,c) java code,d) c# code
+627,Official IDE released for android development is called,,1,Evaluation-Android,android studio,a) Eclipse,b) Netbeans,c) Android studio,d) Java
+628,Most common environment to run Java programs written for PC only is called,,1,Evaluation-Android,jre,a) jdk,b) jre,c) ide,d) sdk
+629,"In android, compiled code is executed by part of android system called",,1,Evaluation-Android,dvm,a) dex,b) dvm,c) jdk,d) apk
+630,"A part of android studio, that work as a simulator for android devices is called",,1,Evaluation-Android,emulator,a) emulator,b) driver,c) stub,d) firmware
+631,Code that provides easy way to use all android features is called,,1,Evaluation-Android,api,,a) dex,b) apk,c) api
+632,Android component that controls external elements of files is called,,1,Evaluation-Android,resource,a) intent,b) resource,c) view,d) manifest
+633,One of the operating systems that cannot be used for android application development is,,1,Evaluation-Android,cooja,a) eclipse,b) Netbeans,c) Android Studio,d) cooja
+634,Android's understandable form of code is called,,1,Evaluation-Android,dex,a) jdk,b) dex,c) dvm,d) api
+635,Android is licensed under which open source licensing license?,,1,Evaluation-Android,apache/mit,a) apache/mit,b) oss,c) gnu's gpl,d) sourceforge
+636,"As an Android programmer, what version of Android should you use as your minimum development target?",,1,Evaluation-Android,1.6 or 2.0,a) 1.6 or 2.0,b) 1.0 or 1.1,c) 2.1 or 2.3,d) 3.1 or 4.0
+637,What was Google’s main business motivation for supporting Android?,,1,Evaluation-Android,To allow them to advertise more,a) To level the playing field for mobile devices,b) To directly compete with the iPhone,c) To corner the mobile device application market for licensing purposes,d) To allow them to advertise more
+638,"Once installed on a device, each Android application lives in_______",,1,Evaluation-Android,,a) device memory,b) external memory,c) security sandbox,d) None of the above
+639,What is Manifest.xml in android?,,1,Evaluation-Android,It has all the information about an application,a) It has information about layout in an application,b) It has the information about activities in an application,c) It has all the information about an application,d) None of the above
+640,Which features are considered while creating an android application?,,1,Evaluation-Android,All of the above,a) Screen Size,b) Input configuration,c) Platform Version,d) All of the above
+641,How many ports are allocated for a new emulator?,,1,Evaluation-Android,2,a) 2,b) 4,c) 10,d) 0
+642,What does APK stand for?,,1,Evaluation-Android,application package,a) application program kit,b) android proprietary kit,c) android package,d) application package
+643,"When you distribute your application commercially, you'll want to sign it with your own key.",,1,Evaluation-Android,TRUE,a) True,b) False,,
+644,Android applications must be signed,,1,Evaluation-Android,before they are installed,a) after they are installed,b) before they are installed,c) never,d) within two weeks of installation
+645,The android sdk ships with an _______________,,1,Evaluation-Android,emulator,a) apk,b) emulator,c) driver,d) None of the above
+646,"To create an emulator, you need an AVD. What does AVD stand for?",,1,Evaluation-Android,android virtual device,a) android virtual display,b) active virtual device,c) android virtual device,d) Application virtual display
+647,What does adb stand for?,,1,Evaluation-Android,android debug bridge,a) android device bridge,b) android development bridge,c) android debug bridge,d) None of the above
+648,Which kernel is used in android?,,1,Evaluation-Android,linux,a) windows,b) mac,c) linux,d) iOS
+649,Android libraries are written in,,1,Evaluation-Android,c & c++,a) java,b) c,c) c++,d) c & c++
+650,Which type of kernel is used in android?,,1,Evaluation-Android,micro,a) hybrid,b) monolithic,c) micro,d) None of the above
+651,Which API returns high-quality images of a place?,Hard,1,Evaluation-android,b)place photos,a) place picher,b) place photos,c) photo picker,d) both a and b
+652,Which API allows users to select a place on an interactive map?,Easy,1,Evaluation-android,c)Place Picker,a)place locker,b)place locator,c) place picker,d) None 
+653,A service is stopped itself when it calls which method?,Expert,1,Evaluation-android,a)Stopself(),a)stopSelf(),b)SartService(),c)StopService,d) none of the above
+654,A service is started when it calls which method?,Medium,1,Evaluation-android,b) startService(),a)StopService(),b)SartService(),c)BeganService,d) none of the above
+655,Which service is used to play an audio track?,Medium,1,Evaluation-android,c)foreground,a)background,b)bound,c) foreground,d) none
+656,Android service API provides user interface. Statement is ….?,Easy,1,Evaluation-android,a) False,a) true,b)false,c) partially true,d)all
+657,What are the functionalities in asyncTask in android?,Expert,1,Evaluation-android,d) onPostExecution(),a) onPreExecution(),b) doInBackground(),c) onProgressUpdate(),d) onPostExecution()
+658,How to access the context in android content provider?,Medium,1,Evaluation-android,d) a & c,a) Using getContext() in onCreate(),b) Using intent(),c) Using getApplicationContext() at anywhere in an application,d) a & c
+659,What is the 9 patch tool in android?,Easy,1,Evaluation-android,"a) Using with tool, we can redraw images in 9 sections.","a) Using with tool, we can redraw images in 9 sections.",b) image extension tool,c) image editable tool,d) Device features
+660,How to fix crash using log cat in android?,Expert,1,Evaluation-android,b) log cat contains the exception name along with the line number,a) gmail,b) log cat contains the exception name along with the line number,c) Google search,d) None of the above.
+661,What is the JSON exception in android?,Easy,1,Evaluation-android,a) JSon Exception,a) JSon Exception,b) Json Not found exception,c) Input not found exception,d) None of the above
+662,How many levels of securities are there in android?,Hard,1,Evaluation-android,a) App level security and kernel level security,a) App level security and kernel level security,b) Android level security,c) Java level security,d) None of the above
+663, What is the main difference between set and list in android?,Hard,1,Evaluation-android,d)  b & c,a) Both are same,b) Set can't contain duplicate values,c) List may contain duplicate values,d)  b & c
+664,Package of compiled Java codes with some other resources is called,Medium,1,Evaluation-android,b) APK,a) IDE,b) APK,c) JDK,d) IDE
+665,When classes are divided into many parts to achieve different functionalities is called,Medium,1,Evaluation-android,d) mehods,a) classes,b) objects ,c) stubs,d) methods
+666,Property that is used for formatting font is,Easy,1,Evaluation-android,b) typeface,a) color,b) typeface,c) ImageView,d) Mip Map
+667,"In android studio, currently open file location can be shown by",Easy,1,Evaluation-android,a) navigation bar,a) navigation bar,b) tool bar,c) menue bar,d) editor tab
+668,"Considering following statement <br>protected void onCreated(Bund saveInstncState) {, onCreated is called",Expert,1,Evaluation-android,b) method name,a) method declaration,b) method name,c) method signature,d) method call
+669, A type of service provided by android that shows messages and alerts to user is,Hard,1,Evaluation-android,c) Notifications Manager,a) Content Providers,b) View System,c) Notifications Manager,d) Activity Manager
+670,"Broadcast that includes information about battery state, level, etc. is",Hard,1,Evaluation-android,a) android.intent.action.BATTERY_CHANGED, a) android.intent.action.BATTERY_CHANGED,b) android.intent.action.BATTERY_LOW,c) android.intent.action.BATTERY_OKAY,d) android.intent.action.CALL_BUTTON
+671,"One of application component, that manages application's background services is called",Medium,1,Evaluation-android,c) Services,a) Activities,b) Broadcast Receivers,c) Services,d) Content Providers
+672,"In android studio, callback that is called when activity interaction with user is started is",Easy,1,Evaluation-android,c) onResume,a) onStart,b) onStop,c) onResume,d) onDestroy
+673,Tab that can be used to do any task that can be done from DOS window is,Easy,1,Evaluation-android,c) terminal,a) TODO,b) messages,c) terminal,d) comments
+674,Space outside of widget can be customized using,Easy,1,Evaluation-android,d) margins,a) padding,b) height,c) weight,d) margins
+675,Tab that shows hierarchy of project is,Easy,1,Evaluation-android,b) structure,a) Build variants,b) structure,c) Favorites,d) project
+676,"In android, compiled code is executed by part of android system called",Expert,1,Evaluation-android,b) DVM,a)DEX,b) DVM,c) JDK,d) API
+677,"A part of android studio, that work as a simulator for android devices is called",Hard,1,Evaluation-android,b) emulator,a) driver,b) emulator,c) stubs,d) firmware
+678,Code that provide easy way to use all android features is called,Easy,1,Evaluation-android,a) API,a) API,b) DEX,c) DVM,d) JDK
+679,If a button is clicked whose method in Java is not defined then android application will,Medium,1,Evaluation-android,b) crash,a) donothing,b) crash,c) show black screen,d) get hang
+680,"Android content provider architecture, component that does not resides on data layer is",Medium,1,Evaluation-android,d) content provider,a) internet,b) Sqlite,c) Files,d) content provider
+681,Android calculates pixels density of mobile (currently using app) using unit of measurement,Easy,1,Evaluation-android,c) DP,a) CP ,b) SP,c)DP,d) GP
+682,"In android studio, each new activity created must be defined in",Easy,1,Evaluation-android,d) AndroidManifest.xml,a) res/layout,b) res/values,c) Build.gradle,d) AndroidManifest.xml
+683,Android component that controls external elements of file is called,Hard,1,Evaluation-android,b) resource,a) internet,b) resource ,c) view,d) manifest
+684,A type of service provided by android that controls application lifespan and activity pile is,Hard,1,Evaluation-android,a)Activity Manager,a) Activity Manager,b) View System,c) Notifications Manager,d) Content Providers
+685,One of operating system that cannot be used for android application development is,Easy,1,Evaluation-android,b) Cooja,a) Eclipse,b) Cooja,c) Netbeans,d) Android studio
+686,"Activity is needed to be stopped by doing any operation until resumed callback is called, type of callback is",Easy,1,Evaluation-android,a) onPause,a) onPause,b) onDestroy,c) onResume,d) onRestart
+687,"In android studio, a service that is started and cannot be stopped even calling activity is destroyed is",Expert,1,Evaluation-android,d) bindService(),a) startService(),b) onStop(),c) onDestroy(),d) bindService()
+688,Android understandable form of code is called,Expert,1,Evaluation-android,b) DEX,a) JDK,b) DEX,c) DVM,d) API
+689,One of operating system that cannot be used for android application development is,Easy,1,Evaluation-android,d) Contiki,a) Windows,b) MAX,c) Linux,d) Contiki
+690,A class that allows to display messages on logcat windows is,Easy,1,Evaluation-android,b) Log class,a) Toast Class,b) log class,c) makeTest class,d) Show class
+691,One of recent android version is,Easy,1,Evaluation-android,b) Marshmallow,a) Kitkat,b) Marshmallow,c) Lolipop,d) Jelly Bean
+692,Required Java environment for development is called,Easy,1,Evaluation-android,a) JDK,a)JDK,b) DEX,c) DVM ,d) API
+693,"In android studio, virtual console type tab that is used as command line interface is called",Medium,1,Evaluation-android,d) ADB logs,a) memory,b) CPU,c) logcat ,d) ADB logs
+694, BroadcastReceiver's subclass overrides method,Expert,1,Evaluation-android,d) onReceive(),a) OnCreate(),b) onStart(),c) onRestart(),d) onReceive()
+695,Dalvik Virtual Machine (DVM) actually uses core features of,Expert,1,Evaluation-android,c) Linux,a) Windows,b) Mac,c) Linux,d) Contiki
+696,Space between edge to of widget content of widget can be customized using,Expert,1,Evaluation-android,c) padding,a) margins,b) height,c) padding,d) weight
+697,Button option can be choose from palette category,Easy,1,Evaluation-android,c) widgets,a) textfields,b) containers,c) widgets,d) layouts
+698,"In android studio, tab in which error is shown is called",Easy,1,Evaluation-android,a) logcat,a) logcat,b) memory,c) ADB logs,d) CPU
+699,Requests from Content Provider class is handled by method,Hard,1,Evaluation-android,d) ContentResolver,a) onCreate,b) onSelect,c) onClick,d) ContentResolver
+700,A type of class that will be responsible to design main screen activity on first time launch of application is called,Easy,1,Evaluation-android,a) Activity class,a) Activity class,b) Parent class,c) Child class,d) Inherited class
+701,Method is called when service was created first-time using onStartCommand() or onBind() is,Easy,1,Evaluation-android,b) onCreate(),a) onStart(),b) onCreate(),c) onRestart(),d) startService()
+702,Underlying operating system for android is,Easy,1,Evaluation-android,a) Linux ,a) Linux,b) Windows,c) Contiki,d) Ubuntu
+703,"On implementing method of onBind(), service must provide an interface for user by returning object called",Hard,1,Evaluation-android,a) Ibinder,a) Ibinder,b) Intent,c) R,d) Layout
+704,Android component that manages appearance and format on screen is called,Medium,1,Evaluation-android,d) layout,a) fragment,b) intent,c) view,d) layout
+705,"In android UI, <code>onClick</code> is actually a",Expert,1,Evaluation-android,c) property,a) class,b) button,c) property,d) function
+706,SendStickyBroadcast(Intent) method is used to show that Intent is,Expert,1,Evaluation-android,d) sticky,a) prominent,b) prioritized,c) optional,d) sticky
+707,Required android environment for development is called,Medium,1,Evaluation-android,a) SDK,a) SDK,b) IDE ,c) APK,d) JDK
+708," In android studio, quick options can be accessed from",Hard,1,Evaluation-android,b) menu bar,a) tool bar,b) menu bar,c) navigation bar,d) editor tab
+709,"In android studio, tab in which CPU usage of app is shown is called",Hard,1,Evaluation-android,c) CPU,a) ADB logs,b) memory,c) CPU,d) logcat
+710,A method that is used to handle what happens after clicking a button is,Expert,1,Evaluation-android,c) onClick,a) OnCreate,b) onSelect,c) onClick,d) onDo
+711,Method that is used to produce log messages in android is,Hard,1,Evaluation-android,a) Log.d(),a) Log.d(),b) Log.D(),c) Log.R(),d) Log.r()
+712,"In android studio, main activity for application must be declared in",Medium,1,Evaluation-android,b) <intent-filter>,a) <intent>,b) <intent-filter>,c) <intent-layout>,d) <intent-activity>
+713,Android component that works like database,Medium,1,Evaluation-android,d) Content Providers,a) Services,b) Activities,c) Broadcast Receivers,d) Content Providers
+714,"By default in android studio during app development, directory made for xml files is",Easy,1,Evaluation-android,b) res/values,a) res/layout,b) res/values,c) AndroidManifest.xml,d) Build.gradle
+715,A type of layout elements that allows all included elements in order is,Easy,1,Evaluation-android,c) LinearLayout,a) ConstraintLayout,b) TextviewLayout,c) LinearLayout,d) RelativeLayout
+716,Tab that stores history of most visited places is,Hard,1,Evaluation-android,a) Favorites,a) Favorites,b) Structure,c) Build variants,d) Project
+717,"In android, functionality of one class can be used in other class by using option",Hard,1,Evaluation-android,a) extends,a) extends,b) extended,c) extending ,d) extend
+718,A class that displays a toast-shaped message for user is,Medium,1,Evaluation-android,d) Toast class,a) Log class,b) makeTest class,c) Show class,d) Toast class
+719,"One of application component, that manages database issues is called",Medium,1,Evaluation-android,b) Content Providers,a) Services,b) Content Providers,c) Broadcast Receivers,d) Activities
+720,Android library that provides access to model of application is,Easy,1,Evaluation-android,c) android.app,a) android.opengl,b) android.content,c) view,d) android.database
+721,"In android emulator mode, left-hand side of smartphone area elements is called",Easy,1,Evaluation-android,a) palette,a) palette,b) widgets,c) design,d) button
+722,Broadcast of device reboot is,Hard,1,Evaluation-android,b) android.intent.action.REBOOT,a) android.intent.action.BATTERY_LOW,b) android.intent.action.REBOOT,c) android.intent.action.BATTERY_CHANGED,d) android.intent.action.CALL
+723,Android component that shows part of an activity on screen is called,Expert,1,Evaluation-android,b) fragment,a) intent,b) fragment,c) view,d) manifest
+724,Layout or design of an android application is saved in,Easy,1,Evaluation-android,d) .xml file,a) .text file,b) .java file,c) .dex file,d) .xml file
+725,"For specialized layout elements, palette element used is",Hard,1,Evaluation-android,a) custom,a) custom,b) textfields,c) containers,d) widgets
+726,Method that is called to clean up any resources used by services is,Hard,1,Evaluation-android,c) onDestroy(),a) stopSelf(),b) onStop(),c) onDestroy(),d) stopService()
+727,UI design hierarchy and individual design elements can be seen using,Hard,1,Evaluation-android,c) component tree,a) properties,b) terminal,c) component tree,d) layout
+728,Multiple inheritance concept is indirectly used by using,Expert,1,Evaluation-android,c) sub class,a) public class,b) child class,c) sub class,d) super class
+729,Android library that provides access to graphics is,Medium,1,Evaluation-android,b) android.opengl,a) android.content,b) android.opengl,c) android.app,d) android.database
+730," In android Studio, TODO tab is actually used for",Expert,1,Evaluation-android,a) comments,a) comments,b) storage,c) classes,d) function
+731,Android component that shows part of an activity on screen is called,Easy,1,Evaluation-Android,b) fragment,a) intent,b) fragment,c) view,d) manifest
+732,Layout or design of an android application is saved in,Medium,1,Evaluation-Android,d) .xml file,a) .text file,b) .java file,c) .dex file,d) .xml file
+733,"For specialized layout elements, palette element used is",Hard,1,Evaluation-Android,a) custom,a) custom,b)textfields,c) containers,d) widgets
+734,Method that is called to clean up any resources used by services is,Expert,1,Evaluation-Android,(c)onDestroy(),(a)stopSelf(),(b)onStop(),(c)onDestroy(),(d)stopService()
+735,UI design hierarchy and individual design elements can be seen using,Medium,1,Evaluation-Android,b)component tree,a)properties,b)component tree,c)layout,d)terminal
+736,Multiple inheritance concept is indirectly used by using,Easy,1,Evaluation-Android,c)sub class,a)public class,b)child class,c)sub class,d)super class
+737,Android library that provides access to graphics is,Medium,1,Evaluation-Android,b)android.opengl,a)android.content,b)android.opengl,c)android.app,d)android.database
+738,"In android Studio, TODO tab is actually used for",Hard,1,Evaluation-Android,a)comments,a)comments,b)storage,c)classes,d)function
+739,"In android, logcat is also referred as",Easy,1,Evaluation-Android,c)Console,a)Verbos,b)Info,c)Console,d)Method
+740,One of option that is not part of palette elements is,Medium,1,Evaluation-Android,d)default,a)layouts,b)containers,c)date and time,d)default
+741,"By default in android studio during app development, file that holds information about SDK, versions, application Id, etc. is",Easy,1,Evaluation-Android,a)Build.gradle,a)Build.gradle,b)res/values,c)res/layout,d)AndroidManifest.xml
+742,"In android, right way to declare a package is",Medium,1,Evaluation-Android,d)package com.newpak,a)package com-newspeak,b)package com+newpak,c)package com/newpak,d)package com.newpak
+743,Android library that provides text manipulation and rendering of application is,Easy,1,Evaluation-Android,c)android.text,a)android.view,b)android.webkit,c)android.text,d)android.os
+744,"One of application component, that manages interaction between operating system and android os is called",Expert,1,Evaluation-Android,a)Broadcast Receivers,a)Broadcast Receivers,b)Content Providers,c)Activities,d)Services
+745,Android library that provides access to standard functions of an operating system is,Hard,1,Evaluation-Android,a)android.os,a)android.os,b)android.text,c)android.view,d)android.webkit
+746,What method you should override to use Android menu system?,Medium,1,Evaluation-Android,a)onCreateOptionsMenu(),a)onCreateOptionsMenu(),b)onCreateMenu(),c)onMenuCreated(),d)onCreateContextMenu()
+747,What Activity method you use to retrieve a reference to an Android view by using the id attribute of a resource XML?,Medium,1,Evaluation-Android,b)findViewById(int id),a)findViewByReference(int id);,b)findViewById(int id),c)retrieveResourceById(int id),d)findViewById(String id)
+748,Which of the following is not an Android component (i.e. a point from which the system can enter your application)?,Easy,1,Evaluation-Android,c)Layout,a)Service,b)Activity,c)Layout,d)Content Provider
+749,"During an Activity life-cycle, what is the first callback methodinvoked by the system?",Medium,1,Evaluation-Android,c)onCreate(),a)onStop(),b)onStart(),c)onCreate(),d)onRestore()
+750,Which configuration file holds the permission to use the internet?,Easy,1,Evaluation-Android,d)Manifest file,a) Layout file,b)Property file,c)Java source file,d)Manifest file
+751,Which of the following is NOT a valid usage for Intents?,Medium,1,Evaluation-Android,d)Activate a SQLite DB Connection.,a)Activate and Activity,b)Activate a Service,c)Activate a Broadcast receiver,d)Activate a SQLite DB Connection.
+752,Which of the following is not a valid Android resource file name?,Hard,1,Evaluation-Android,b)myLayout.xml,a)mylayout.xml,b)myLayout.xml,c)my_layout.xml,d)mylayout1.xml
+753,Which of these is not defined as a process state?,Easy,1,Evaluation-Android,a)Non-visible,a)Non-visible,b)Visible,c)Foreground,d)Background
+754,What is the name of the folder that contains the R.java file?,Expert,1,Evaluation-Android,d)gen,a)src,b)res,c)bin,d)gen
+755,What is a correct statement about an XML layout file?,Easy,1,Evaluation-Android,b)A file used to draw the content of an Activity,a)A layout PNG image file,b)A file used to draw the content of an Activity,c)A file that contains all application permission information,d)A file that contains a single activity widget.
+756,What does the src folder contain?,Medium,1,Evaluation-Android,d)Java source code files,a)Image and icon files,b)XML resource files,c)The application manifest file,d)Java source code files
+757,What is the parent class of all Activity widgets?,Hard,1,Evaluation-Android,c)View,a)ViewGroup,b)Layout,c)View,d)Widget
+758,What is the name of the class used by Intent to store additional information?,Easy,1,Evaluation-Android,c)Bundle,a)Extra,b)Parcelable,c)Bundle,d)DataStore
+759,Which is not included in the Android application framework?,Medium,1,Evaluation-Android,c)DialerManager,a)WindowManager,b)NotificationManager,c)DialerManager,d)PackageManager
+760,What Eclipse plugin is required to develop Android application?,Easy,1,Evaluation-Android,c)Android Development Tools,"a)J2EE
+",b)Android Software Development Kit,c)Android Development Tools,d)Web Development Tools
+761,Which of these files contains text values that you can use in your application?,Easy,1,Evaluation-Android,d)res/values/strings.xml,a)AndroidManifest.xml,b)res/Text.xml,c)res/layout/Main.xml,d)res/values/strings.xml
+762,What does the Android project folder “res/” contain?,Medium,1,Evaluation-Android,b)Resource files,a)Java Activity classes,b)Resource files,c)Java source code,d)Libraries
+763,Which of the following is a Java call-back method invoked when a view is clicked?,Easy,1,Evaluation-Android,d)OnClickListener,a)Detector,b)OnTapListener,c)OnClickDetector,d)OnClickListener
+764,Which of the following is not an Activity lifecycle call-back method?,Easy,1,Evaluation-Android,d)onBackPressed,a)onStart,b)onCreate,c)onPause,d)onBackPressed
+765,Which method is used to close an activity?,Easy,1,Evaluation-Android,b)Finish( ),"a)Destroy( )
+",b)Finish( ),c)Stop( ),d)Close( )
+766,Which of the following Activity life-cycle methods is called once the activity is no longer visible?,,1,Evaluation-Android,a)onStop,a)onStop,b)onPause,c)onDestroy,d)onHide
+767,Which of the following is a correct Android Manifeststatement?,Easy,1,Evaluation-Android,d)<uses-permission android:name =”android. permission .Internet”/>,a)<uses-permission android:name =”android.Internet”/>,b)<uses-permission android:name =”android.Internet”></uses-permission>,c)<uses-permission android:name =”android.permission.Internet”>,d)<uses-permission android:name =”android. permission .Internet”/>
+768,Which of the following is not a ContentProvider provided natively by Android?,Medium,1,Evaluation-Android,d)The application list,a)The contacts list,b)The telephone log,c)The bookmarks,d)The application list
+769,Which of the following is incorrect about the LogCat tool?,Easy,1,Evaluation-Android,"d)Only one of your application can create log entries, and it should be component class",a)A LogCat view is available as part of the ADT plugin of Eclipse,"b)You can create a log in your application using Log.v(String, String)",c)Each log message has a tag,"d)Only one of your application can create log entries, and it should be component class"
+770,Which of the following information is not included in the Manifest file?,Hard,1,Evaluation-Android,d)The handset model compatible with your application.,a)The activities contained in the application,b)The permissions required by the application,c)The application’s minimum SDK version required.,d)The handset model compatible with your application.
+771,Which method should you use to start a sub-activity?,Medium,1,Evaluation-Android,b)startActivityForResult(Intent intent),a)startActivity(Intent intent),b)startActivityForResult(Intent intent),c)startService(Intent intent),d)startSubActivity(Intent intent)
+772,Which package of the following does not have classes needed for Android network connections?,,1,Evaluation-Android,c)android.location,a)java.net,b)org.apache.http,c)android.location,d)android.net
+773,Which of the following tools creates certificates for signing Android applications?,Medium,1,Evaluation-Android,c)keytool,a)adb,b)logcat,c)keytool,d)certgen
+774,Which manifest file permission you should add to allow your application to read the device’s address book?,Easy,1,Evaluation-Android,d)READ_CONTACTS,a)READ_ADDRESS_DATA,b)READ_PHONE_STATE,c)READ_PHONE_CONTACTS,d)READ_CONTACTS
+775,You can create a custom view by extending class:,Expert,1,Evaluation-Android,c)android.view.View,a) android.widget.View,b)android.widget.LinearLayout,c)android.view.View,d)android.content.Context
+776,In which Activity life-cycle method you should do all of your normal static set up such as: creating views and bind data to lists?,Easy,1,Evaluation-Android,c)onCreate(),a)onResume(),b)onStart(),c)onCreate(),d)onPause()
+777,Which of the following lines of code starts activity Activity2 from a current activity Activity1?,Easy,1,Evaluation-Android,"d)Intent intent = new Intent(this,Activity2.class);startActivity(intent);","a)Intent intent = new Intent(this,new Activity2()); startActivity(intent);",b)Intent intent = new Intent(new Activity2());startActivity(intent);,"c)Intent intent = new Intent (Activity1.class,Activity2.class);startActivity(intent);","d)Intent intent = new Intent(this,Activity2.class);startActivity(intent);"
+778,Which of the following methods is called in an Activity when another activity gets into the foreground?,Expert,1,Evaluation-Android,b)onPause( ),a)onStop( ),b)onPause( ),c)onDestroy( ),d)onExit( )
+779,What is not true about the AndroidManifest.xml file?,Easy,1,Evaluation-Android,a)It declares the views used within the application,a)It declares the views used within the application,b)It declares user permissions the application requires,c)It declares application components,d)It declares hardware and software features used within the application
+780,"If your application is throwing exception android.content.ActivityNotFoundException, how to fix it?",Expert,1,Evaluation-Android,d)Add the activity to the AndroidManifest,a)Create a new activity Java sub-class.,b)Rename your activity,c)Create the activity layout,d)Add the activity to the AndroidManifest
+781,Which of the following you cannot achieve by creating your own View sub-classes?,Hard,1,Evaluation-Android,c)Specify when to destroy an activity and all its views.,a)Create a completely new customized View type.,b)Combine a group of View components into a new single component.,c)Specify when to destroy an activity and all its views.,d)Override the way that an existing component is displayed on the screen.
+782,What are the main two types of thread in Android?,Medium,1,Evaluation-Android,a)Main thread and worker threads.,a)Main thread and worker threads.,b)Main thread and UI thread.,c)Activities and services.,d)Main thread and background process.
+783,Which of the following AsyncTask methods is NOT executed on the UI thread?,Medium,1,Evaluation-Android,c)publishProgress(),a)onPreExecute(),b)onPostExecute(),c)publishProgress(),d)onProgressUpdate()
+784,Which of the following is a NOT valid form of notification invoked by the NotificationManager?,Easy,1,Evaluation-Android,d)A SMS sent.,a)A Flashing LED.,b)A persistent icon in the status bar.,c) A sound played,d)A SMS sent.
+785,Which of the following a Notification object must contain? (Choose three),Hard,1,Evaluation-Android,a)A small icon.,a)A small icon.,b)A detail text.,c)A notification sound.,d)A title.
+786,A type of service provided by android that allows sharing and publishing of data to other applications is,Expert,1,Evaluation-Android,b)Content Providers,a)View System,b)Content Providers,c)Activity Manager,d)Notifications Manager
+787,"Android library that provides access to UI pre-built elements such as buttons, lists, views etc. is",Easy,1,Evaluation-Android,d)android.webkit,a)android.text,b)android.os,c)android.view,d)android.webkit
+788,Android component that manages app's configuration file is called,Medium,1,Evaluation-Android,a)manifest,a)manifest,b)fragment,c)view,d)intent
+789,Tab that shows system and error messages is,Easy,1,Evaluation-Android,b)messages,a)terminal,b)messages,c)TODO,d)comments
+790,"In android studio, tab in which memory usage of app is shown is called",Easy,1,Evaluation-Android,b)memory,a)CPU,b)memory,c)ADB logs,d)logcat
+791,"In android studio, service that provides client-server interface is",Easy,1,Evaluation-Android,c)startService(),a)bindService(),b)onStart(),c)startService(),d)onCreate()
+792,"To generate custom intents in android, method is used is",Hard,1,Evaluation-Android,c)broadcastIntent(),a)broadcastCreate(),b)broadcastReceive(),c)broadcastIntent(),d)broadcastStart()
+793,"Android library that provides access to content, its publishing and messaging among app components is",Expert,1,Evaluation-Android,d)android.content,a)android.app,b)android.database,c)android.opengl,d)android.content
+794,Broadcast that displays information of low battery,Easy,1,Evaluation-Android,d)android.intent.action.BATTERY_LOW,a)android.intent.action.REBOOT,b)android.intent.action.BATTERY_CHANGED,c)android.intent.action.BATTERY_OKAY,d)android.intent.action.BATTERY_LOW
+795,"In android studio, callback that is when activity is no longer visible is",Medium,1,Evaluation-Android,b)onStop,a)onDestroy,b)onStop,c)onRestart,d)onResume
+796,A type of layout element that allows its children relative position depiction is,Easy,1,Evaluation-Android,a)RelativeLayout,a)RelativeLayout,b)TextviewLayout,c)LinearLayout,d)ConstraintLayout
+797,To create a unit of code within a method signature that can be extend or shrink is enclosed by,Expert,1,Evaluation-Android,b){},a)[],b){},c)(),d)||
+798,Required android tools for development is called,Easy,1,Evaluation-Android,d)SDK,a)APK,b)JDK,c)IDE,d)SDK
+799,Android sizes fonts of mobile (currently using app) using unit of measurement,Hard,1,Evaluation-Android,a)SP,a)SP,b)DP,c)CP,d)GP
+800,Broadcast of call to someone targeted by data is,Expert,1,Evaluation-Android,b)android.intent.action.CALL,a)android.intent.action.BUG_REPORT,b)android.intent.action.CALL,c)android.intent.action.REBOOT,d)android.intent.action.BATTERY_CHANGED
+801,Tab that navigate back to project explorer is,Easy,1,Evaluation-Android,a)Project,a)Project,b)Favorites,c)Build variants,d)Structure
+802,Tab that shows completed events logs is,Easy,1,Evaluation-Android,a)event log,a)event log,b)terminal,c)messages,d)TODO
+803,"A part of android system, DVM is actually a",Hard,1,Evaluation-Android,b)software,a)server,b)software,c)hardware,d)firmware
+804,Broadcast of pressing call button to call someone is,Easy,1,Evaluation-Android,a)android.intent.action.CALL_BUTTON,a)android.intent.action.CALL_BUTTON,b)android.intent.action.BATTERY_CHANGED,c)android.intent.action.CALL,d)android.intent.action.REBOOT
+805,Android is actually using whole bunch of,Medium,1,Evaluation-Android,c)Java code,a)Python code,b)C code,c)Java code,d)C sharp code
+806,Most usable area of android studio is,Medium,1,Evaluation-Android,d)editor,a)menu bar,b)navigation bar,c)tool bar,d)editor
+807,"In android studio, callback that is called when activity is visible is",Easy,1,Evaluation-Android,d)onStart,a)onCreate,b)onDestroy,c)onStop,d)onStart
+808,Broadcast of changed date is,Easy,1,Evaluation-Android,a)android.intent.action.DATE_CHANGED,a)android.intent.action.DATE_CHANGED,b)android.intent.action.BATTERY_CHANGED,c)android.intent.action.CALL,d)android.intent.action.REBOOT
+809,Android library that provides access to database is,Hard,1,Evaluation-Android,a)android.database,a)android.database,b)android.content,c)android.app,d)android.opengl
+810,How you can share code and resources between modules ?,Easy,1,Evaluation-Android,b)using library,a)uing APK,b)using library,c) using SDK,d) None
+811,Which rectangle box simply responds to the user's actions?,Easy,1,Evaluation-Android,a) View,a) View,b) LayOut,c)both,d) None
+812,Which in the below is under the view action?,Easy,1,Evaluation-Android,d)all of the above,a)EditText,b)Button,c)CheckBox,d)all of the above
+813,which defines the visual structure for a user interface?,Easy,1,Evaluation-Android,b) LayOut,a) View,b) LayOut,c)both,d) None
+814,Declare UI elements in XML belongs under which user interface?,Easy,1,Evaluation-Android,b) LayOut,a) View,b) LayOut,c)both,d) None
+815,Which xml file  must  have in every app project?,Easy,1,Evaluation-Android,b)AndroidManifest,a) Android object,b)AndroidManifest,c) Android bin,d) none
+816,Which  file describes essential information about your app to the Android build tools?,Medium,1,Evaluation-Android,b)Manifest,a) object,b)Manifest,c)bin ,d) exe file
+817,Testing in the Emulator you have to create..,Medium,1,Evaluation-Android,a)AVD,a)AVD,b)SDK,c)APK,d)none
+818,What is an activity in Android?,Medium,1,Evaluation-Android,a) performs actions ,a) performs actions ,b) Manage Application ,c) Screen UI,d)none
+819,What are the layouts available in android?,Medium,1,Evaluation-Android,d)all of the above,a)Linear Layout,b)Frame Layout,c)Table Layout,d)all of the above
+820,How to access the context in android content provider?,Expert,1,Evaluation-Android,c)A & C,a)Using getContext(),b)Using intent(),c) A & C,d)none
+821,What is JNI in android?,Expert,1,Evaluation-Android,d)Java native interface.,a)Java network interface,b)Java interface,c) Image editable tool,d)Java native interface.
+822,What does httpclient.execute() returns in android?,Expert,1,Evaluation-Android,b)Http response,a)Http entity,b)Http response,c)Http result,d)None of the above.
+823," In android studio, callback that is when activity is no longer visible is",Expert,1,Evaluation-Android,b)onStop,a)onDestroy,b)onStop,c)onRestart,d)onResume
+824,A type of layout element that allows its children relative position depiction is,Expert,1,Evaluation-Android,a)RelativeLayout,a)RelativeLayout,b)TextviewLayout,c)LinearLayout,d)ConstraintLayout
+825,To create a unit of code within a method used ,Easy,1,Evaluation-Android,b){},a)[],b){},c)(),d)||
+826,Required android tools for development is called,Easy,1,Evaluation-Android,d)SDK,a)APK,b)JDK,c)IDE,d)SDK
+827,"In Java, blueprint created for an object is called",Medium,1,Evaluation-Android,d)a class,a)an object,b)a function,c)a program,d)a class
+828,Android sizes fonts of mobile (currently using app) using unit of measurement,Medium,1,Evaluation-Android,a)SP,a)SP,b)DP,c)CP,d)GP
+829, Tab that navigate back to project explorer is,Medium,1,Evaluation-Android,a)Project,a)Project,b)Favorites,c)Build variants,d)Structure
+830,Tab that shows completed events logs is,Medium,1,Evaluation-Android,a)event log,a)event log,b)terminal,c)messages,d)TODO
+831,"A part of android system, DVM is actually a",Medium,1,Evaluation-Android,b)software,a)server,b)software,c)hardware,d)firmware
+832,Android is actually using whole bunch of,Expert,1,Evaluation-Android,c)Java code,a)Python code,b)C code,c)Java code,d)C sharp code
+833,Most usable area of android studio is,Expert,1,Evaluation-Android,d)editor,a)menu bar,b)navigation bar,c)tool bar,d)editor
+834,Tab that test different version of currently developing app is,Expert,1,Evaluation-Android,c)Build variants,a)Structure,b)Favorites,c)Build variants,d)Project
+835,Official IDE released for android development is called,Easy,1,Evaluation-Android,c)Android studio,a)Eclipse,b)Net beans,c)Android studio,d)Java
+836,Transformation process of Java into android readable form is called,Medium,1,Evaluation-Android,a)compiling,a)compiling,b)linking,c)debugging,d)testing
+837,"To go back to android window, tab used is",Medium,1,Evaluation-Android,c)android,a)terminal,b)TODO,c)android,d)messages
+838,Most common environment to run Java programs written for PC only is called,Medium,1,Evaluation-Android,a)JRE,a)JRE,b)JDK,c)IDE,d)SDK
+839,Element of palette that holds multiple elements of specific purpose is called,Expert,1,Evaluation-Android,b)containers,a)widgets,b)containers,c)textfields,d)layouts
+840,"In android studio, callback that enable system to destroy an activity is",Medium,1,Evaluation-Android,d)onDestroy,a)onRestart,b)onCreate,c)onStop,d)onDestroy
+841,Android library that provides access user interfaces' building blocks is,Expert,1,Evaluation-Android,b)android.view,a)android.webkit,b)android.view,c)android.os,d)android.text
+842,"In android studio, callback that is called when activity is first time created is",Expert,1,Evaluation-Android,b)onCreate,a)onRestart,b)onCreate,c)onStop,d)onDestroy
+843,Package of compiled Java codes with some other resources is called,Expert,1,Evaluation-Android,b)APK,a)IDE,b)APK,c)JDK,d)IDE
+844,When classes are divided into many parts to achieve different functionalities is called,Expert,1,Evaluation-Android,d)methods,a)classes,b)objects,c)stubs,d)methods
+845,Property that is used for formatting font is,Expert,1,Evaluation-Android,b)typeface,a)Color,b)typeface,c)ImageView,d)Mip Map
+846,"In android studio, currently open file location can be shown by",Expert,1,Evaluation-Android,a)navigation bar,a)navigation bar,b)tool bar,c)menu bar,d)editor tab
+847,A type of service provided by android that shows messages and alerts to user is,Medium,1,Evaluation-Android,c)Notifications Manager,a)Content Providers,b)View System,c)Notifications Manager,d)Activity Manager
+848,"One of application component, that manages application's background services is called",Expert,1,Evaluation-Android,c)Services,a)Activities,b)Broadcast Receivers,c)Services,d)Content Providers
+849,"In android studio, callback that is called when activity interaction with user is started is",Expert,1,Evaluation-Android,c)onResume,a)onStart,b)onStop,c)onResume,d)onDestroy
+850,Tab that can be used to do any task that can be done from DOS window is,Medium,1,Evaluation-Android,c)terminal,a)TODO,b)messages,c)terminal,d)comments
+851,Space outside of widget can be customized using,Medium,1,Evaluation-Android,d)margins,a)padding,b)height,c)weight,d)margins
+852,Tab that shows hierarchy of project is,Medium,1,Evaluation-Android,b)Structure,a)Build variants,b)Structure,c)Favorites,d)Project
+853,"In android, compiled code is executed by part of android system called",Easy,1,Evaluation-Android,b)DVM,a)DEX,b)DVM,c)JDK,d)API
+854,"A part of android studio, that work as a simulator for android devices is called",Medium,1,Evaluation-Android,b)emulator,a)driver,b)emulator,c)stub,d)firmware
+855,Code that provide easy way to use all android features is called,Medium,1,Evaluation-Android,a)API,a)API,b)DEX,c)DVM,d)JDK
+856,If a button is clicked whose method in Java is not defined then android application will,Expert,1,Evaluation-Android,b)crash,a)do nothing,b)crash,c)show black screen,d)get hang
+857,"Android content provider architecture, component that does not resides on data layer is",Expert,1,Evaluation-Android,d)content provider,a)Internet,b)SQLite,c)Files,d)content provider
+858,Android calculates pixels density of mobile (currently using app) using unit of measurement,Expert,1,Evaluation-Android,c)DP,a)CP,b)SP,c)DP,d)GP
+859,"In android studio, each new activity created must be defined in",Expert,1,Evaluation-Android,d)AndroidManifest.xml,a)res/layout,b)res/values,c)Build.gradle,d)AndroidManifest.xml
+860,Android component that controls external elements of file is called,Expert,1,Evaluation-Android,b)resource,a)intent,b)resource,c)view,d)manifest
+861,A type of service provided by android that controls application lifespan and activity pile is,Expert,1,Evaluation-Android,a)Activity Manager,a)Activity Manager,b)View System,c)Notifications Manager,d)Content Providers
+862,"Activity is needed to be stopped by doing any operation until resumed callback is called, type of callback is",Medium,1,Evaluation-Android,a)onPause,a)onPause,b)onDestroy,c)onResume,d)onRestart
+863,One of operating system that cannot be used for android application development is,Easy,1,Evaluation-Android,b)Cooja,a)Eclipse,b)Cooja,c)Netbeans,d)Android studio
+864,"In android studio, a service that is started and cannot be stopped even calling activity is destroyed is",Medium,1,Evaluation-Android,d)bindService(),a)startService(),b)onStop(),c)onDestroy(),d)bindService()
+865,Android understandable form of code is called,Easy,1,Evaluation-Android,b)DEX,a)JDK,b)DEX,c)DVM,d)API
+866,Required Java environment for development is called,Easy,1,Evaluation-Android,a)JDK,a)JDK,b)DEX,c)DVM,d)API
+867,Android component that manages appearance and format on screen is called,Easy,1,Evaluation-Android,d)layout,a)fragment,b)intent,c)view,d)layout
+868,A method that is used to handle what happens after clicking a button is,Medium,1,Evaluation-Android,c)onClick,a)OnCreate,b)onSelect,c)onClick,d)onDo
+869,What is the first phone released that ran the Android OS,Easy,1,Evaluation-Android,b)T- Mobile G1,a)google phone,b)T- Mobile G1,c)Motorola Dorid,d) HTC Hero
+870,Which piece of code used in Android is not open source,Easy,1,Evaluation-Android,b)WiFi Driver,a)Keypad driver,b)WiFi Driver,c)Audio Driver,d)power management
+871,Which among these are NOT a part of Andriod native libraries,Medium,1,Evaluation-Android,b)Dalvik,a)WebKit,b)Dalvik,c)OpenGL,d)Sqlite
+872,Android is based on Linux for the followoing reasons,Easy,1,Evaluation-Android,d)all of the above,a)Security,b)Portability,c)Networking,d)all of the above
+873,What operating system is used as the base of Android stack?,Easy,1,Evaluation-Android,a)Linux,a)Linux,b)windows,c)java,d)XML
+874,What year was development on the Dalvik virtual machine started ?,Easy,1,Evaluation-Android,b)2005,a)2003,b)2005,c)2007,d)2006
+875,Which of these are not one of the three main componenet of the APK,Medium,1,Evaluation-Android,c)Webkit,a)Dalvik,Resources,c)Webkit,d)Libraries
+876,The emulator is identical to running a real phone expect when emulating what ? ,Easy,1,Evaluation-Android,c)Sensors,a)Telephone,b)Application,c)Sensors,d)Emulator
+877,The R file is a generated file,Expert,1,Evaluation-Android,a)automatically,a)automatically,b)manually,c)Emulated,d)None of the above.
+878,An activity can be thought of as corresponding to what?,Expert,1,Evaluation-Android,a)Java class,a)Java class,b)java project,c)java method,d)an object filed
+879,"In android studio, currently open file location can be shown by",Easy,1,Evaluation-Android,a)navigation bar,a)navigation bar,b)tool bar,c)menu bar,d)editor tab
+880,A class that allows to display messages on logcat windows is,Medium,1,Evaluation-Android,b)Log class,a)Toast Class,b)Log class,c)makeTest class,d)Show class
+881,"In android studio, virtual console type tab that is used as command line interface is called",Medium,1,Evaluation-Android,d)ADB logs,a)memory,b)CPU,c)logcat,d)ADB logs
+882,"In android studio, tab in which error is shown is called",Medium,1,Evaluation-Android,a)logcat,a)logcat,b)memory,c)ADB logs,d)CPU
+883,SendStickyBroadcast(Intent) method is used to show that Intent is,Expert,1,Evaluation-Android,d)sticky,a)prominent,b)prioritized,c)optional,d)sticky
+884,"In android studio, tab in which CPU usage of app is shown is called",Expert,1,Evaluation-Android,c)CPU,a)ADB logs,b)memory,c)CPU,d)logcat
+885,Android component that works like database,Expert,1,Evaluation-Android,d)Content Providers,a)Services,b)Activities,c)Broadcast Receivers,d)Content Providers
+886,A type of layout elements that allows all included elements in order is,Expert,1,Evaluation-Android,c)LinearLayout,a)ConstraintLayout,b)TextviewLayout,c)LinearLayout,d)RelativeLayout
+887,Tab that stores history of most visited places is,Expert,1,Evaluation-Android,a)Favorites,a)Favorites,b)Structure,c)Build variants,d)Project
+888,"In android emulator mode, left-hand side of smartphone area elements is called",Expert,1,Evaluation-Android,a)palette,a)palette,b)widgets,c)design,d)button
+889,Layout or design of an android application is saved in,Easy,1,Evaluation-Android,d).xml file,a).text file,b).java file,c).dex file,d).xml file
+890,Dalvik Virtual Machine (DVM) actually uses core features of,Easy,1,Android,c)Linux,a)Windows,b)Mac,c)Linux,d)Contiki
+891,A type of service provided by android that allows sharing and publishing of data to other applications is,Easy,1,Android,b)Content Providers,a)View System,b)Content Providers,c)Activity Manager,d)Notifications Manager
+892,"Android library that provides access to UI pre-built elements such as buttons, lists, views etc. is",Easy,1,Android,d)android.webkit,a)android.text,b)android.os,c)android.view,d)android.webkit
+893,A type of service provided by android that shows messages and alerts to user is,Easy,1,Android,c)Notifications Manager,a)Content Providers,b)View System,c)Notifications Manager,d)Activity Manager
+894,A type of service provided by android that controls application lifespan and activity pile is,Easy,1,Android,a)Activity Manager,a)Activity Manager,b)View System,c)Notifications Manager,d)Content Providers
+895,BroadcastReceiver's subclass overrides method,Easy,1,Android,d)onReceive(),a)BroadcastReceiver's subclass overrides method,b)onStart(),c)onRestart(),d)onReceive()
+896,"On implementing method of onStartCommand(), service must be stopped after task is completed using",Easy,1,Android,c)stopSelf() or stopService(),a)stopSelf(),b)stopService(),c)stopSelf() or stopService(),d)endService()
+897,Space between edge to of widget content of widget can be customized using,Easy,1,Android,c)padding,a)margins,b)height,c)padding,d)weight
+898,Button option can be choose from palette category,Easy,1,Android,c)widgets,a)textfields,b)containers,c)widgets,d)layouts
+899,What is the main difference between set and list in android?,Medium,1,Android,d) B & C,a)Both are same,b)Set can't contain duplicate values,c)List may contain duplicate values,d) B & C
+900,Android component that works like database,Medium,1,Android,c)Content Providers,a)Services,b)Activities,c)Content Providers,d)Broadcast Receivers
+901,SendStickyBroadcast(Intent) method is used to show that Intent is,Medium,1,Android,a)sticky,a)sticky,b)prioritized,c)None,d)optional
+902,Broadcast of device reboot is,Medium,1,Android,d)android.intent.action.REBOOT,a)android.intent.action.CALL,b)android.intent.action.BATTERY_CHANGED,c)None,d)android.intent.action.REBOOT
+903,"To generate custom intents in android, method is used is",Medium,1,Android,b)broadcastIntent(),a)broadcastStart(),b)broadcastIntent(),c)broadcastReceive(),d)broadcastCreate()
+904,"Android content provider architecture, component that does not resides on data layer is",Medium,1,Android,a)content providers,a)content providers,b)Files,c)SQLite,d)Internet
+905,What are important steps to make BroadcastReceiver works for the system broadcasted intents ?,Medium,1,Android,c)Both,a)Registering Broadcast Receiver,b)Creating the Broadcast Receiver,c)Both,d)None
+906,"Sticky broadcast containing the charging state, level, and other information about the battery",Medium,1,Android,a)android.intent.action.BATTERY_CHANGED,a)android.intent.action.BATTERY_CHANGED,b)android.intent.action.BOOT_COMPLETED,c)android.intent.action.BATTERY_OKAY,d)android.intent.action.BATTERY_LOW
+907,Indicates low battery condition on the device.,Medium,1,Android,d)android.intent.action.BATTERY_LOW,a)android.intent.action.BATTERY_CHANGED,b)android.intent.action.BOOT_COMPLETED,c)android.intent.action.BATTERY_OKAY,d)android.intent.action.BATTERY_LOW
+908,Indicates the battery is now okay after being low.,Medium,1,Android,c)android.intent.action.BATTERY_OKAY,a)android.intent.action.BATTERY_CHANGED,b)android.intent.action.BOOT_COMPLETED,c)android.intent.action.BATTERY_OKAY,d)android.intent.action.BATTERY_LOW
+909,"This is broadcast once, after the system has finished booting.",Hard,1,Android,b)android.intent.action.BOOT_COMPLETED,a)android.intent.action.BATTERY_CHANGED,b)android.intent.action.BOOT_COMPLETED,c)android.intent.action.BATTERY_OKAY,d)android.intent.action.BATTERY_LOW
+910,Show activity for reporting a bug.,Hard,1,Android,b)android.intent.action.BUG_REPORT,a)android.intent.action.BATTERY_CHANGED,b)android.intent.action.BUG_REPORT,c)android.intent.action.BATTERY_OKAY,d)android.intent.action.BATTERY_LOW
+911,Perform a call to someone specified by the data.,Hard,1,Android,c)android.intent.action.CALL,a)android.intent.action.BATTERY_CHANGED,b)android.intent.action.BUG_REPORT,c)android.intent.action.CALL,d)android.intent.action.BATTERY_LOW
+912,"The user pressed the ""call"" button to go to the dialer or other appropriate UI for placing a call.",Hard,1,Android,b)android.intent.action.CALL_BUTTON,a)android.intent.action.BATTERY_CHANGED,b)android.intent.action.CALL_BUTTON,c)android.intent.action.CALL,d)android.intent.action.BATTERY_LOW
+913,The date has changed.,Hard,1,Android,b)android.intent.action.DATE_CHANGED,a)android.intent.action.BATTERY_CHANGED,b)android.intent.action.DATE_CHANGED,c)android.intent.action.CALL,d)android.intent.action.BATTERY_LOW
+914,Have the device reboot.,Expert,1,Android,a)android.intent.action.REBOOT,a)android.intent.action.REBOOT,b)android.intent.action.DATE_CHANGED,c)android.intent.action.CALL,d)android.intent.action.BATTERY_LOW
+915,This method is called when the provider is started,Expert,1,Android,a)onCreate(),a)onCreate(),b)query(),c)delete(),d)getType()
+916,This method receives a request from a client. The result is returned as a Cursor object.,Expert,1,Android,b)query(),a)onCreate(),b)query(),c)delete(),d)getType()
+917,This method inserts a new record into the content provider,Expert,1,Android,b)insert(),a)onCreate(),b)insert(),c)delete(),d)getType()
+918,This method deletes an existing record from the content provider.,Expert,1,Android,c)delete(),a)onCreate(),b)insert(),c)delete(),d)getType()
+919,This method updates an existing record from the content provider,Expert,1,Android,b)update(),a)onCreate(),b)update(),c)delete(),d)getType()
+920,This method returns the MIME type of the data at the given URI,Expert,1,Android,c)getType(),a)onCreate(),b)update(),c)getType(),d)delete()
+921,The fragment instance is associated with an activity instance,Expert,1,Android,d)onAttach(),a)onCreate(),b)update(),c)getType(),d)onAttach()
+922,he system calls this method when creating the fragment,Expert,1,Android,b)onCreate(),a)onCreate(),b)onCreate(),c)getType(),d)onAttach()
+923,when the host activity is created,Easy,1,Android,a)onCreateView(),a)onCreateView(),b)onCreate(),c)getType(),d)onAttach()
+924,This method is called once the fragment gets visible,Medium,1,Android,c)onStart(),a)onCreateView(),b)onCreate(),c)onStart(),d)onAttach()
+925,Fragment becomes active,Hard,1,Android,d)onResume(),a)onCreateView(),b)onCreate(),c)onStart(),d)onResume()
+926,The system calls this method as the first indication that the user is leaving the fragment,Expert,1,Android,a)onPause(),a)onPause(),b)onCreate(),c)onStart(),d)onResume()
+927,Fragment going to be stopped,Expert,1,Android,b)onStop(),a)onPause(),b)onStop(),c)onStart(),d)onResume()
+928,Fragment view will destroy after call this method,Expert,1,Android,b)onDestroyView(),a)onPause(),b)onDestroyView(),c)onStart(),d)onResume()
+929,called to do final clean up of the fragment's state but Not guaranteed to be called by the Android platform,Expert,1,Android,c)onDestroy(),a)onPause(),b)onDestroyView(),c)onDestroy(),d)onResume()
+930,Basically fragments are divided as,Expert,1,Android,c)Three,a)One,b)Two,c)Three,d)Four
+931,"Which frame is using for hand hold devices like mobiles, here we can show only one fragment as a view",Expert,1,Android,b)Single frame fragments,a)Double frame fragments,b)Single frame fragments,c)Multiple frame fragments,d)None
+932,fragments having special list view is called as list fragment,Hard,1,Android,a)List fragments,a)List fragments,b)Single frame fragments,c)Multiple frame fragments,d)None
+933,Using with fragment transaction. we can move one fragment to another fragment,Hard,1,Android,c)Fragments transaction,a)List fragments,b)Single frame fragments,c)Fragments transaction,d)None
+934,The Intent object is passed to this method to launch a new activity or get an existing activity to do something new,Hard,1,Android,b)Context.startActivity(),a)List fragments,b)Context.startActivity(),c)Fragments transaction,d)None
+935,The Intent object is passed to this method to initiate a service or deliver new instructions to an ongoing service,Hard,1,Android,d)Context.startService(),a)List fragments,b)Context.startActivity(),c)Fragments transaction,d)Context.startService()
+936,The Intent object is passed to this method to deliver the message to all interested broadcast receivers,Hard,1,Android,a)Context.sendBroadcast(),a)Context.sendBroadcast(),b)Context.startActivity(),c)Fragments transaction,d)Context.startService()
+937,"Display information about the person whose identifier is ""1""",Easy,1,Android,a)ACTION_VIEW content://contacts/people/1,a)ACTION_VIEW content://contacts/people/1,b)a)ACTION_VIEW content://contacts/1,c)a)ACTION_VIEW content://1,d)None
+938,How many types of intents supported by Android ?,Easy,1,Android,b)Two,a)One,b)Two,c)Three,d)Four
+939,Display the phone dialer with the person filled in,Easy,1,Android,b)ACTION_DIAL content://contacts/people/1,a)b)ACTION_DIAL content://contacts/1,b)ACTION_DIAL content://contacts/people/1,c)b)ACTION_DIAL content://1,d)None
+940,Display the phone dialer with the given number filled in,Easy,1,Android,b)ACTION_VIEW tel:123,a)b)ACTION_DIAL content://contacts/2,b)ACTION_VIEW tel:123,c)ACTION_DIAL tel:122,d)ACTION_SET_WALLPAPER
+941,Display the phone dialer with the given number filled in,Easy,1,Android,c)ACTION_DIAL tel:123,a)b)ACTION_DIAL content://contacts/3,b)ACTION_EDIT content://contacts/people/0,c)ACTION_DIAL tel:123,d)ACTION_SET_WALLPAPER
+942,"Edit information about the person whose identifier is ""1"".",Easy,1,Android,b)ACTION_EDIT content://contacts/people/1,a)b)ACTION_DIAL content://contacts/4,b)ACTION_EDIT content://contacts/people/1,c)ACTION_DIAL tel:124,d)ACTION_SET_WALLPAPER
+943,"Display a list of people, which the user can browse through.",Medium,1,Android,a)ACTION_VIEW content://contacts/people/1,a)ACTION_VIEW content://contacts/people/1,b)ACTION_EDIT content://contacts/people/2,c)ACTION_DIAL tel:125,d)ACTION_SET_WALLPAPER
+944,Show settings for choosing wallpaper,Medium,1,Android,d)ACTION_SET_WALLPAPER,a)ACTION_UNINSTALL_PACKAGE,b)ACTION_EDIT content://contacts/people/3,c)ACTION_DIAL tel:126,d)ACTION_SET_WALLPAPER
+945,"It going to be synchronous the data,Constant Value is android.intent.action.SYNC",Medium,1,Android,b)ACTION_SYNC,a)ACTION_UNINSTALL_PACKAGE,b)ACTION_SYNC,c)ACTION_DIAL tel:127,d)ACTION_SET_WALLPAPER
+946,It will start the platform-defined tutorial,Medium,1,Android,c)ACTION_SYSTEM_TUTORIAL,a)ACTION_UNINSTALL_PACKAGE,b)ACTION_SYNC,c)ACTION_SYSTEM_TUTORIAL,d)ACTION_SET_WALLPAPER
+947,It intimates when time zone has changed,Medium,1,Android,b)ACTION_TIMEZONE_CHANGED,a)ACTION_UNINSTALL_PACKAGE,b)ACTION_TIMEZONE_CHANGED,c)ACTION_SYSTEM_TUTORIAL,d)ACTION_SET_WALLPAPER
+948,It is used to run default uninstaller,Medium,1,Android,a)ACTION_UNINSTALL_PACKAGE,a)ACTION_UNINSTALL_PACKAGE,b)ACTION_TIMEZONE_CHANGED,c)ACTION_SYSTEM_TUTORIAL,d)ACTION_SET_WALLPAPER
+949,"Which layout view group that aligns all children in a single direction, vertically or horizontally?",Hard,1,Android,b)LinearLayout,a)Relative Layout,b)LinearLayout,c)Table Layout,d)Grid View
+950,Which Layout is a view group that displays child views in relative positions?,Hard,1,Android,a)Relative Layout,a)Relative Layout,b)LinearLayout,c)Table Layout,d)Grid View
+951,Which Layout is a view that groups views into rows and columns?,Hard,1,Android,c)Table Layout,a)Relative Layout,b)LinearLayout,c)Table Layout,d)Grid View
+952,Which Layout enables you to specify the exact location of its children?,Hard,1,Android,b)Absolute Layout,a)Relative Layout,b)Absolute Layout,c)Table Layout,d)Grid View
+953,Which Layout is a placeholder on screen that you can use to display a single view ?,Hard,1,Android,c)Frame Layout,a)Relative Layout,b)Absolute Layout,c)Frame Layout,d)Grid View
+954,Which View is a view group that displays a list of scrollable items?,Hard,1,Android,b)List View,a)Relative Layout,b)List View,c)Frame Layout,d)Grid View
+955,"Which View is a ViewGroup that displays items in a two-dimensional, scrollable grid.?",Hard,1,Android,d)Grid View,a)Relative Layout,b)List View,c)Frame Layout,d)Grid View
+956,This is the bottom padding filled for the layout,Easy,1,Android,a)android:paddingBottom,a)android:paddingBottom,b)android:paddingTop,c)android:paddingRight,d)android:paddingLeft
+957,This is the top padding filled for the layout,Easy,1,Android,b)List View,a)android:paddingBottom,b)android:paddingTop,c)android:paddingRight,d)android:paddingLeft
+958,This is the right padding filled for the layout,Easy,1,Android,c)Frame Layout,a)android:paddingBottom,b)android:paddingTop,c)android:paddingRight,d)android:paddingLeft
+959,This is the left padding filled for the layout,Easy,1,Android,d)android:paddingLeft,a)android:paddingBottom,b)android:paddingTop,c)android:paddingRight,d)android:paddingLeft
+960,This specifies how child Views are positioned.,Easy,1,Android,a)android:layout_gravity,a)android:layout_gravity,b)android:paddingTop,c)android:paddingRight,d)android:paddingLeft
+961,"A service is started when an application component, such as an activity, starts it by calling",Easy,1,Android,b)startService(),a)onUnbind(),b)startService(),c)bindService(),d)None
+962,A service is bound when an application component binds to it by calling,Easy,1,Android,c)bindService(),a)onUnbind(),b)startService(),c)bindService(),d)None
+963,"The system calls this method when another component, such as an activity, requests that the service be started",Expert,1,Android,b)onStartCommand(),a)onUnbind(),b)onStartCommand(),c)bindService(),d)None
+964,The system calls this method when another component wants to bind with the service by calling bindService(),Expert,1,Android,c)onBind(),a)onUnbind(),b)onStartCommand(),c)onBind(),d)None
+965,The system calls this method when all clients have disconnected from a particular interface published by the service,Expert,1,Android,a)onUnbind(),a)onUnbind(),b)onStartCommand(),c)onBind(),d)All of them
+966,The system calls this method when the service is first created using onStartCommand() or onBind(),Expert,1,Android,c)onCreate(),a)onUnbind(),b)onStartCommand(),c)onCreate(),d)All of them
+967,The system calls this method when the service is no longer used and is being destroyed,Expert,1,Android,b)onDestroy(),a)onUnbind(),b)onDestroy(),c)onCreate(),d)All of them
+968,Which is not a layout?,Expert,1,Android,d)All of them,a)Linear Layout,b)Absolute Layout,c)Frame Layout,d)All of them
+969,Specifies how child Views are positioned,Expert,1,Android,b)layout_gravity,a)Linear Layout,b)layout_gravity,c)Frame Layout,d)All of them
